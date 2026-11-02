@@ -99,11 +99,12 @@ git reset --mixed origin/main
 ```
 
 `git reset --mixed origin/main` 会将当前分支接到远端已有的提交历史，保留工作目录中的
-全部网站文件。然后查看并提交此次更新：
+全部网站文件。用 `git status --short` 检查差异，其中 `D` 表示准备删除的文件；
+需要保留的历史附件应先补回，再重新暂存。然后查看并提交此次更新：
 
 ```sh
 git add .
-git diff --cached --stat
+git --no-pager diff --cached --stat
 git commit -m "Publish bilingual academic website"
 git push -u origin main
 ```
