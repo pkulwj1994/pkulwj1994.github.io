@@ -1,0 +1,32 @@
+{
+  "id": "uni-instruct-2025",
+  "published": true,
+  "year": 2025,
+  "title": {
+    "en": "Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction",
+    "zh": "Uni-Instruct：通过统一扩散散度指导训练一步扩散模型"
+  },
+  "authors": [
+    "Yifei Wang",
+    "Weimin Bai",
+    "Colin Zhang",
+    "Debing Zhang",
+    "Weijian Luo* ",
+    "and He Sun"
+  ],
+  "status": {
+    "en": "NeurIPS, 2025",
+    "zh": "NeurIPS，2025"
+  },
+  "summary": "",
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2505.20755"
+    }
+  ],
+  "featured": false
+}

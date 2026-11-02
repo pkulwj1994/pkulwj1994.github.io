@@ -1,0 +1,16 @@
+{
+  "name": "weijian-luo-academic-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An Apple-inspired, file-based academic website",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/dev.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --test",
+    "add:paper": "node scripts/add.mjs paper",
+    "demos": "node scripts/create-paper-demos.mjs"
+  }
+}

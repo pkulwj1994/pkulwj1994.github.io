@@ -1,0 +1,54 @@
+{
+  "id": "score-implicit-matching-2024",
+  "published": true,
+  "year": 2024,
+  "title": {
+    "en": "One-Step Diffusion Distillation through Score Implicit Matching",
+    "zh": "通过得分隐式匹配实现一步扩散蒸馏"
+  },
+  "authors": [
+    "Weijian Luo ",
+    "Zemin Huang",
+    "Zhengyang Geng",
+    "J Zico Kolter",
+    "Guo-Jun Qi"
+  ],
+  "status": {
+    "en": "NeurIPS, 2024",
+    "zh": "NeurIPS，2024"
+  },
+  "summary": {
+    "en": "Data-free one-step diffusion distillation through implicit score-divergence gradients.",
+    "zh": "通过隐式得分散度梯度，实现无需训练图像的一步扩散蒸馏。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2410.16794"
+    }
+  ],
+  "featured": true,
+  "featuredOrder": 3,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/score-implicit-matching-demo.gif",
+      "zh": "assets/papers/score-implicit-matching-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/score-implicit-matching-poster.png",
+      "zh": "assets/papers/score-implicit-matching-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual method animation: implicit score matching.",
+      "zh": "隐式得分匹配的方法流程示意动图。"
+    },
+    "caption": {
+      "en": "Method illustration · implicit score matching",
+      "zh": "方法示意 · 隐式得分匹配"
+    }
+  }
+}

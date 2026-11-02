@@ -1,0 +1,55 @@
+{
+  "id": "diff-instruct-2023",
+  "published": true,
+  "year": 2023,
+  "title": {
+    "en": "Diff-instruct: A Universal Approach for Transferring Knowledge from Pre-trained Diffusion Models",
+    "zh": "Diff-Instruct：从预训练扩散模型迁移知识的通用方法"
+  },
+  "authors": [
+    "Weijian Luo ",
+    "Tianyang Hu",
+    "Shifeng Zhang",
+    "Jiacheng Sun",
+    "Zhengguo Li",
+    "Zhihua Zhang"
+  ],
+  "status": {
+    "en": "NeurIPS , 2023",
+    "zh": "NeurIPS，2023"
+  },
+  "summary": {
+    "en": "Transferring the knowledge of diffusion models into one-step generators.",
+    "zh": "将扩散模型的知识迁移到一步生成器。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/f115f619b62833aadc5acb058975b0e6-Abstract-Conference.html"
+    }
+  ],
+  "featured": true,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/diff-instruct-demo.gif",
+      "zh": "assets/papers/diff-instruct-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/diff-instruct-poster.png",
+      "zh": "assets/papers/diff-instruct-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual animation of one-step generator training guided by the difference between teacher and student scores at multiple noise levels.",
+      "zh": "展示在不同噪声水平下，利用教师与学生得分之差指导一步生成器训练的概念动图。"
+    },
+    "caption": {
+      "en": "Method illustration · diffusion knowledge transfer",
+      "zh": "方法示意 · 扩散知识迁移"
+    }
+  },
+  "featuredOrder": 2
+}

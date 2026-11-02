@@ -1,0 +1,64 @@
+{
+  "id": "discrete-diffusion-instruct-2025",
+  "published": true,
+  "year": 2026,
+  "title": {
+    "en": "Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct",
+    "zh": "通过离散扩散散度指导实现超快速语言生成"
+  },
+  "authors": [
+    "Haoyang Zheng",
+    "Xinyang Liu",
+    "Cindy Xiangrui Kong",
+    "Nan Jiang",
+    "Zheyuan Hu",
+    "Weijian Luo*",
+    "Wei Deng*",
+    "Guang Lin"
+  ],
+  "status": {
+    "en": "ICLR 2026",
+    "zh": "ICLR 2026"
+  },
+  "summary": {
+    "en": "Distill a discrete diffusion language model into a few-step generator through integral KL matching.",
+    "zh": "通过积分 KL 匹配，将离散扩散语言模型蒸馏为少步生成器。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Conference PDF",
+        "zh": "会议论文 PDF"
+      },
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/323880c576dc7cdcb1fcc7432447a3df-Paper-Conference.pdf"
+    },
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2509.25035"
+    }
+  ],
+  "featured": true,
+  "featuredOrder": 4,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/didi-instruct-demo.gif",
+      "zh": "assets/papers/didi-instruct-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/didi-instruct-poster.png",
+      "zh": "assets/papers/didi-instruct-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual method animation: discrete language distillation.",
+      "zh": "离散语言模型蒸馏的方法流程示意动图。"
+    },
+    "caption": {
+      "en": "Method illustration · discrete language distillation",
+      "zh": "方法示意 · 离散语言模型蒸馏"
+    }
+  }
+}

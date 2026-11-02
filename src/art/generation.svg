@@ -1,0 +1,6 @@
+<svg class="card-art" viewBox="0 0 300 170" fill="none" aria-hidden="true">
+  <defs><linearGradient id="flow-line" x1="15" y1="85" x2="265" y2="85" gradientUnits="userSpaceOnUse"><stop stop-color="#8585b3" stop-opacity=".15"/><stop offset=".65" stop-color="#8ab6ff"/><stop offset="1" stop-color="#e6edff"/></linearGradient></defs>
+  <g stroke="url(#flow-line)" stroke-width="1.2"><path d="M16 27c87 0 100 58 176 58h66M16 47c83 0 104 38 176 38M16 67c83 0 104 18 176 18M16 87c83 0 104-2 176-2M16 107c83 0 104-22 176-22M16 127c83 0 104-42 176-42M16 147c87 0 100-62 176-62"/></g>
+  <g fill="#9a9ab5"><circle cx="16" cy="27" r="2"/><circle cx="16" cy="47" r="2"/><circle cx="16" cy="67" r="2"/><circle cx="16" cy="87" r="2"/><circle cx="16" cy="107" r="2"/><circle cx="16" cy="127" r="2"/><circle cx="16" cy="147" r="2"/></g>
+  <circle cx="257" cy="85" r="17" fill="#333a50"/><circle cx="257" cy="85" r="6" fill="#c2d9ff"/><circle cx="257" cy="85" r="27" stroke="#7d9bc6" stroke-opacity=".18"/>
+</svg>

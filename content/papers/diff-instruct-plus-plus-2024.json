@@ -1,0 +1,50 @@
+{
+  "id": "diff-instruct-plus-plus-2024",
+  "published": true,
+  "year": 2024,
+  "title": {
+    "en": "Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences",
+    "zh": "Diff-Instruct++：将一步文生图模型与人类偏好对齐"
+  },
+  "authors": [
+    "Weijian Luo"
+  ],
+  "status": {
+    "en": "Transactions on Machine Learning Research (TMLR) , 2024",
+    "zh": "Transactions on Machine Learning Research (TMLR)，2024"
+  },
+  "summary": {
+    "en": "Bringing human preferences to one-step image generation.",
+    "zh": "让一步图像生成更好地对齐人类偏好。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2410.18881"
+    }
+  ],
+  "featured": true,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/diff-instruct-plus-plus-demo.gif",
+      "zh": "assets/papers/diff-instruct-plus-plus-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/diff-instruct-plus-plus-poster.png",
+      "zh": "assets/papers/diff-instruct-plus-plus-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual animation of a one-step generator aligned using a human preference reward and a reference diffusion constraint.",
+      "zh": "展示一步生成器如何结合人类偏好奖励与参考扩散约束进行对齐的概念动图。"
+    },
+    "caption": {
+      "en": "Method illustration · preference alignment",
+      "zh": "方法示意 · 人类偏好对齐"
+    }
+  },
+  "featuredOrder": 1
+}

@@ -1,0 +1,31 @@
+{
+  "id": "self-guidance-2025",
+  "published": true,
+  "year": 2025,
+  "title": {
+    "en": "Self-Guidance: Boosting Flow and Diffusion Generation on Their Own",
+    "zh": "Self-Guidance：让流模型与扩散模型自我提升"
+  },
+  "authors": [
+    "Tiancheng Li",
+    "Weijian Luo* ",
+    "Zhiyang Chen",
+    "Liyuan Ma",
+    "Guo-Jun Qi"
+  ],
+  "status": {
+    "en": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) , 2025",
+    "zh": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)，2025"
+  },
+  "summary": "",
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2412.05827"
+    }
+  ],
+  "featured": false
+}

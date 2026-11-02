@@ -1,0 +1,351 @@
+{
+  "collaborators": [
+    {
+      "id": "j-zico-kolter",
+      "name": "J. Zico Kolter",
+      "bioHtml": {
+        "en": "Professor, Director of the Machine Learning Department, Carnegie Mellon University (CMU).",
+        "zh": "卡内基梅隆大学（CMU）教授、机器学习系主任。"
+      },
+      "visible": true,
+      "website": "https://zicokolter.com/"
+    },
+    {
+      "id": "guo-jun-qi",
+      "name": "Guo-jun Qi",
+      "bioHtml": {
+        "en": "Professor, IEEE Fellow, Director of MAPLE Lab of Westlake University.",
+        "zh": "西湖大学教授、IEEE Fellow、MAPLE 实验室主任。"
+      },
+      "visible": true,
+      "website": "https://maple.lab.westlake.edu.cn/"
+    },
+    {
+      "id": "guang-lin",
+      "name": "Guang Lin",
+      "bioHtml": {
+        "en": "Associate Dean for Research, Moses Cobb Stevens Professor in Mathematics, Mech Eng <a href=\"https://engineering.purdue.edu/ME\" rel=\"noopener noreferrer\" target=\"_blank\">Purdue University</a> .",
+        "zh": "<a href=\"https://engineering.purdue.edu/ME\" rel=\"noopener noreferrer\" target=\"_blank\">Purdue University</a>研究事务副院长，数学与机械工程 Moses Cobb Stevens 讲席教授。"
+      },
+      "visible": true,
+      "website": "https://www.linkedin.com/in/guang-lin-7a464624/"
+    },
+    {
+      "id": "kenji-kawaguchi",
+      "name": "Kenji Kawaguchi",
+      "bioHtml": {
+        "en": "Presidential Young Professor at Department of Computer Science <a href=\"https://ml.comp.nus.edu.sg/#\" rel=\"noopener noreferrer\" target=\"_blank\">National University of Singapore</a> .",
+        "zh": "<a href=\"https://ml.comp.nus.edu.sg/#\" rel=\"noopener noreferrer\" target=\"_blank\">National University of Singapore</a>计算机科学系校长青年教授。"
+      },
+      "visible": true,
+      "website": "https://ml.comp.nus.edu.sg/kawaguchi"
+    },
+    {
+      "id": "zhenguo-li",
+      "name": "Zhenguo Li",
+      "bioHtml": {
+        "en": "director of the AI Theory Lab in <a href=\"https://www.noahlab.com.hk/#/home\" rel=\"noopener noreferrer\" target=\"_blank\">Huawei Noah&rsquo;s Ark Lab, Hongkong</a> , Adjunct Professor in the department of computer science and engineering, <a href=\"https://hkust.edu.hk/zh-hant\" rel=\"noopener noreferrer\" target=\"_blank\">Hong Kong University of Science and Technology</a> .",
+        "zh": "<a href=\"https://www.noahlab.com.hk/#/home\" rel=\"noopener noreferrer\" target=\"_blank\">Huawei Noah&rsquo;s Ark Lab, Hongkong</a> AI 理论实验室主任，<a href=\"https://hkust.edu.hk/zh-hant\" rel=\"noopener noreferrer\" target=\"_blank\">Hong Kong University of Science and Technology</a>计算机科学与工程系兼职教授。"
+      },
+      "visible": true,
+      "website": "https://zhenguol.github.io/"
+    },
+    {
+      "id": "he-sun",
+      "name": "He Sun",
+      "bioHtml": {
+        "en": "PhD, tenure-track Assistant Professor at <a href=\"https://english.pku.edu.cn/\" rel=\"noopener noreferrer\" target=\"_blank\">Peking University</a> .",
+        "zh": "博士，<a href=\"https://english.pku.edu.cn/\" rel=\"noopener noreferrer\" target=\"_blank\">Peking University</a>预聘助理教授。"
+      },
+      "visible": true,
+      "website": "https://ai4scientificimaging.org/"
+    },
+    {
+      "id": "tianyang-hu",
+      "name": "Tianyang Hu",
+      "bioHtml": {
+        "en": "PhD, Incoming Assistant Professor at the Chinese University of Hong Kong, Shenzhen ( <a href=\"https://sds.cuhk.edu.cn/en\" rel=\"noopener noreferrer\" target=\"_blank\">CUHK-Shenzhen</a> ).",
+        "zh": "博士，即将入职香港中文大学（深圳）<a href=\"https://sds.cuhk.edu.cn/en\" rel=\"noopener noreferrer\" target=\"_blank\">CUHK-Shenzhen</a>担任助理教授。"
+      },
+      "visible": true,
+      "website": "https://hu-tianyang.github.io/"
+    },
+    {
+      "id": "wenzheng-chen",
+      "name": "Wenzheng Chen",
+      "bioHtml": {
+        "en": "PhD, tenure-track Assistant Professor at <a href=\"https://english.pku.edu.cn/\" rel=\"noopener noreferrer\" target=\"_blank\">Peking University</a> .",
+        "zh": "博士，<a href=\"https://english.pku.edu.cn/\" rel=\"noopener noreferrer\" target=\"_blank\">Peking University</a>预聘助理教授。"
+      },
+      "visible": true,
+      "website": "https://wenzhengchen.github.io/"
+    },
+    {
+      "id": "wei-deng",
+      "name": "Wei Deng",
+      "bioHtml": {
+        "en": "PhD, Senior Research Scientist at Morgan Stanley, New York.",
+        "zh": "博士，纽约摩根士丹利高级研究科学家。"
+      },
+      "visible": true,
+      "website": "https://www.weideng.org/"
+    },
+    {
+      "id": "ricky-tian-qi-chen",
+      "name": "Ricky Tian Qi Chen",
+      "bioHtml": {
+        "en": "PhD, Research Scientist at Meta Fundamental AI Research (FAIR), New York.",
+        "zh": "博士，纽约 Meta Fundamental AI Research（FAIR）研究科学家。"
+      },
+      "visible": true,
+      "website": "https://rtqichen.github.io/"
+    },
+    {
+      "id": "zheyuan-hu",
+      "name": "Zheyuan Hu",
+      "bioHtml": {
+        "en": "PhD from the National University of Singapore, the Winner of the NeurIPS 2024 best paper award.",
+        "zh": "新加坡国立大学博士，NeurIPS 2024 最佳论文奖获得者。"
+      },
+      "visible": true
+    },
+    {
+      "id": "seth-forsgren",
+      "name": "Seth Forsgren",
+      "bioHtml": {
+        "en": "BS from Princeton, CEO and the founder of <a href=\"https://www.riffusion.com/\" rel=\"noopener noreferrer\" target=\"_blank\">producer.ai</a> , San Francisco. producer.ai was acquired by Google Deepmind.",
+        "zh": "普林斯顿大学学士，旧金山 <a href=\"https://www.riffusion.com/\" rel=\"noopener noreferrer\" target=\"_blank\">producer.ai</a> 的创始人兼 CEO。producer.ai 已被 Google DeepMind 收购。"
+      },
+      "visible": true,
+      "website": "https://www.linkedin.com/in/sethforsgren/"
+    },
+    {
+      "id": "hayk-martiros",
+      "name": "Hayk Martiros",
+      "bioHtml": {
+        "en": "MS from Stanford, CTO and the co-founder of <a href=\"https://www.riffusion.com/\" rel=\"noopener noreferrer\" target=\"_blank\">producer.ai</a> , technical VP of <a href=\"https://www.skydio.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Skydio</a> .",
+        "zh": "斯坦福大学硕士，<a href=\"https://www.riffusion.com/\" rel=\"noopener noreferrer\" target=\"_blank\">producer.ai</a> 联合创始人兼 CTO，<a href=\"https://www.skydio.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Skydio</a> 技术副总裁。"
+      },
+      "visible": true,
+      "website": "https://www.haykmartiros.com/"
+    },
+    {
+      "id": "debing-zhang",
+      "name": "Debing Zhang",
+      "bioHtml": {
+        "en": "PhD, Director of Artificial General Intelligence (AGI) team of <a href=\"https://x.com/xiaohongshu\" rel=\"noopener noreferrer\" target=\"_blank\">RedNote</a> , aka Xiaohongshu Inc.",
+        "zh": "博士，<a href=\"https://x.com/xiaohongshu\" rel=\"noopener noreferrer\" target=\"_blank\">RedNote</a>（小红书）通用人工智能（AGI）团队负责人。"
+      },
+      "visible": true
+    }
+  ],
+  "students": [
+    {
+      "id": "weimin-bai",
+      "name": "Weimin Bai",
+      "bioHtml": {
+        "en": "PhD student at Peking University, ACE top-talent intern at hi-Lab, Xiaohongshu, co-advised with Professor He Sun.",
+        "zh": "北京大学博士生，小红书 hi-lab ACE 实习生，与 He Sun 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "yujian-chen",
+      "name": "Yujian Chen",
+      "bioHtml": {
+        "en": "undergraduate student of Computer Science, Peking University, co-advised with Professor Wenzheng Chen.",
+        "zh": "北京大学计算机科学本科生，与 Wenzheng Chen 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "suzhe-xu",
+      "name": "Suzhe Xu",
+      "bioHtml": {
+        "en": "undergraduate visiting student of Computer Science, Peking University, co-advised with Professor Wenzheng Chen.",
+        "zh": "北京大学计算机科学本科访问学生，与 Wenzheng Chen 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "zhiyuan-yang",
+      "name": "Zhiyuan Yang",
+      "bioHtml": {
+        "en": "undergraduate student of Computer Science <a href=\"https://eecs.pku.edu.cn/jyjx/tsxm.htm\" rel=\"noopener noreferrer\" target=\"_blank\">(Turing Top-Talent Class)</a> , Peking University.",
+        "zh": "北京大学计算机科学本科生，<a href=\"https://eecs.pku.edu.cn/jyjx/tsxm.htm\" rel=\"noopener noreferrer\" target=\"_blank\">(Turing Top-Talent Class)</a>。"
+      },
+      "visible": true
+    },
+    {
+      "id": "hao-jiang",
+      "name": "Hao Jiang",
+      "bioHtml": {
+        "en": "incoming PhD student at Imperial College London, co-advised with Professor Tianyang Hu.",
+        "zh": "即将入学伦敦帝国理工学院的博士生，与 Tianyang Hu 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "yihao-shen",
+      "name": "Yihao Shen",
+      "bioHtml": {
+        "en": "undergraduate student at Chinese University of Hongkong (Shenzhen), co-advised with Professor Tianyang Hu.",
+        "zh": "香港中文大学（深圳）本科生，与 Tianyang Hu 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "jiajun-zha",
+      "name": "Jiajun Zha",
+      "bioHtml": {
+        "en": "PhD student of the Hong Kong University of Science and Technology (HKUST), co-advised with Professor Harry Yang.",
+        "zh": "香港科技大学（HKUST）博士生，与 Harry Yang 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "haoyang-zheng",
+      "name": "Haoyang Zheng",
+      "bioHtml": {
+        "en": "PhD student at Purdue University, co-advised with Professor Guang Lin.",
+        "zh": "普渡大学博士生，与 Guang Lin 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "bowen-zheng",
+      "name": "Bowen Zheng",
+      "bioHtml": {
+        "en": "PhD student at Chinese University of Hongkong (Shenzhen), co-advised with Professor Tianyang Hu.",
+        "zh": "香港中文大学（深圳）博士生，与 Tianyang Hu 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "cindy-xiangrui-kong",
+      "name": "Cindy Xiangrui Kong",
+      "bioHtml": {
+        "en": "MS from Carnegie Mellon University (CMU), PhD student at Purdue University, co-advised with Professor Guang Lin.",
+        "zh": "卡内基梅隆大学（CMU）硕士，普渡大学博士生，与 Guang Lin 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "junyi-wu",
+      "name": "Junyi Wu",
+      "bioHtml": {
+        "en": "PhD student at Purdue University, co-advised with Professor Guang Lin.",
+        "zh": "普渡大学博士生，与 Guang Lin 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "yongzhao-chao",
+      "name": "Yongzhao Chao",
+      "bioHtml": {
+        "en": "MS student at Chinese University of Hongkong (Shenzhen), co-advised with Professor Tianyang Hu.",
+        "zh": "香港中文大学（深圳）硕士生，与 Tianyang Hu 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "yubo-li",
+      "name": "Yubo Li",
+      "bioHtml": {
+        "en": "Undergraduate. student at Tsinghua University, and incoming PhD student at Peking University, co-advised by Professor He Sun.",
+        "zh": "清华大学本科生，即将入学北京大学攻读博士，与 He Sun 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "yihong-luo",
+      "name": "Yihong Luo",
+      "bioHtml": {
+        "en": "PhD student at HKUST.",
+        "zh": "香港科技大学（HKUST）博士生。"
+      },
+      "visible": true
+    },
+    {
+      "id": "harry-liu",
+      "name": "Harry Liu",
+      "bioHtml": {
+        "en": "PhD student at Purdue University, co-advised with Professor Guang Lin.",
+        "zh": "普渡大学博士生，与 Guang Lin 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "yifei-wang",
+      "name": "Yifei Wang",
+      "bioHtml": {
+        "en": "Undergraduate student at Peking University, and incoming PhD student at Rice University (Houston). Co-advised with Professor He Sun.",
+        "zh": "北京大学本科生，即将入学位于休斯敦的莱斯大学攻读博士，与 He Sun 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "kaihang-pan",
+      "name": "Kaihang Pan",
+      "bioHtml": {
+        "en": "PhD student at Zhejiang University. The winner of CPVR2025 Best Student Paper Honorable Mention.",
+        "zh": "浙江大学博士生，CPVR2025 最佳学生论文荣誉提名获得者。"
+      },
+      "visible": true
+    },
+    {
+      "id": "le-zhuo",
+      "name": "Le Zhuo",
+      "bioHtml": {
+        "en": "Incoming CS PhD student of <a href=\"https://mmlab.ie.cuhk.edu.hk/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">MMLab</a> at the Chinese University of Hong Kong.",
+        "zh": "即将入学香港中文大学 <a href=\"https://mmlab.ie.cuhk.edu.hk/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">MMLab</a> 攻读计算机科学博士。"
+      },
+      "visible": true
+    },
+    {
+      "id": "zemin-huang",
+      "name": "Zemin Huang",
+      "bioHtml": {
+        "en": "CS PhD student of the joint PhD Program of Zhejiang University and Westlake University, co-advised with Professor Guo-jun Qi.",
+        "zh": "浙江大学与西湖大学联合培养计算机科学博士生，与 Guo-jun Qi 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "tiancheng-li",
+      "name": "Tiancheng Li",
+      "bioHtml": {
+        "en": "CS PhD student of the joint PhD Program of Zhejiang University and Westlake University, co-advised with Professor Guo-jun Qi.",
+        "zh": "浙江大学与西湖大学联合培养计算机科学博士生，与 Guo-jun Qi 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "zilyu-ye",
+      "name": "Zilyu Ye",
+      "bioHtml": {
+        "en": "CS undergraduate student of South China University of Technology, ByteDance Top Seed Intern, co-advised with Professor Guo-jun Qi.",
+        "zh": "华南理工大学计算机科学本科生、字节跳动 Top Seed 实习生，与 Guo-jun Qi 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "yuxuan-gu",
+      "name": "Yuxuan Gu",
+      "bioHtml": {
+        "en": "Incoming M.S. student at Peking University, co-advised with Professor He Sun.",
+        "zh": "即将入学北京大学的硕士生，与 He Sun 教授共同指导。"
+      },
+      "visible": true
+    },
+    {
+      "id": "chaowei-liu",
+      "name": "Chaowei Liu",
+      "bioHtml": {
+        "en": "National University of Singapore (NUS), co-advised with Professor Guo-jun Qi.",
+        "zh": "新加坡国立大学（NUS），与 Guo-jun Qi 教授共同指导。"
+      },
+      "visible": true
+    }
+  ]
+}

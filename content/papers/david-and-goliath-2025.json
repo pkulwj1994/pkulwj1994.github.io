@@ -1,0 +1,22 @@
+{
+  "id": "david-and-goliath-2025",
+  "published": true,
+  "year": 2025,
+  "title": {
+    "en": "David and Goliath: Small One-step Model Beats Large Diffusion with Score Post-training",
+    "zh": "大卫与歌利亚：小型一步模型通过得分后训练超越大型扩散模型"
+  },
+  "authors": [
+    "Weijian Luo ",
+    "Colin zhang",
+    "Debing Zhang",
+    "Zhengyang Geng"
+  ],
+  "status": {
+    "en": "ICML , 2025",
+    "zh": "ICML，2025"
+  },
+  "summary": "",
+  "links": [],
+  "featured": false
+}

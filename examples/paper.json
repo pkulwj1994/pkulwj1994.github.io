@@ -1,0 +1,22 @@
+{
+  "id": "my-paper",
+  "published": false,
+  "year": 2026,
+  "date": "2026-11-01",
+  "title": {
+    "en": "Your paper title",
+    "zh": "论文中文标题"
+  },
+  "authors": ["First Author", "Weijian Luo", "Last Author"],
+  "status": {
+    "en": "Preprint",
+    "zh": "预印本"
+  },
+  "summary": {
+    "en": "One sentence explaining the contribution.",
+    "zh": "用一句话介绍论文贡献。"
+  },
+  "links": [],
+  "featured": true,
+  "bibtex": ""
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "update-2026-11-02-01-phys-instruct-neurips",
+    "date": "2026-11-02",
+    "html": {
+      "en": "Accepted by <b>NeurIPS 2026</b>.<br><b>Ultra Fast PDE Solving via Physics Guided Few-step Diffusion</b>",
+      "zh": "论文获 <b>NeurIPS 2026</b> 接收。<br><b>Ultra Fast PDE Solving via Physics Guided Few-step Diffusion</b>"
+    },
+    "url": "https://arxiv.org/abs/2602.03627",
+    "visible": true
+  },
+  {
+    "id": "update-2026-11-02-02-zerodiff-plus-plus-tpami",
+    "date": "2026-11-02",
+    "html": {
+      "en": "Accepted by <b>TPAMI</b>.<br><b>ZeroDiff++: Substantial Unseen Visual-semantic Correlation in Zero-shot Learning</b>",
+      "zh": "论文获 <b>TPAMI</b> 接收。<br><b>ZeroDiff++: Substantial Unseen Visual-semantic Correlation in Zero-shot Learning</b>"
+    },
+    "url": "https://arxiv.org/abs/2602.12401",
+    "visible": true
+  },
+  {
+    "id": "update-2026-11-02-03-diff-instruct-diffused-reward",
+    "date": "2026-11-02",
+    "html": {
+      "en": "Accepted by <b>NeurIPS 2026</b> and available on <b>arXiv</b>.<br><b>Diff-Instruct with Diffused Reward: Towards Principled One-step Generator RL</b>",
+      "zh": "论文获 <b>NeurIPS 2026</b> 接收，并已在 <b>arXiv</b> 公开。<br><b>Diff-Instruct with Diffused Reward: Towards Principled One-step Generator RL</b>"
+    },
+    "url": "https://arxiv.org/abs/2605.24001",
+    "visible": true
+  },
+  {
+    "id": "update-2026-11-02-04-principled-posterior-matching",
+    "date": "2026-11-02",
+    "html": {
+      "en": "Preprint available on <b>arXiv</b>.<br><b>Unbiased Diffusion Variational Inversion via Principled Posterior Matching</b>",
+      "zh": "论文已在 <b>arXiv</b> 公开。<br><b>Unbiased Diffusion Variational Inversion via Principled Posterior Matching</b>"
+    },
+    "url": "https://arxiv.org/abs/2605.25042",
+    "visible": true
+  },
+  {
+    "id": "update-2026-11-02-05-langdit",
+    "date": "2026-11-02",
+    "html": {
+      "en": "Preprint available on <b>arXiv</b>.<br><b>Designing Transformers for Continuous Diffusion Language Models</b>",
+      "zh": "论文已在 <b>arXiv</b> 公开。<br><b>Designing Transformers for Continuous Diffusion Language Models</b>"
+    },
+    "url": "https://arxiv.org/pdf/2610.22330",
+    "visible": true
+  },
+  {
+    "id": "update-2026-11-02-06-generative-gap",
+    "date": "2026-11-02",
+    "html": {
+      "en": "Preprint available on <b>arXiv</b>.<br><b>The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model</b>",
+      "zh": "论文已在 <b>arXiv</b> 公开。<br><b>The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model</b>"
+    },
+    "url": "https://arxiv.org/pdf/2610.40847",
+    "visible": true
+  },
+  {
+    "id": "update-2026-05-06-01",
+    "date": "2026-05-06",
+    "displayDate": "6th May 2026",
+    "html": {
+      "en": "one paper is public on <b>Arxiv.</b> <br /> <b>Autoregressive Visual Generation Needs a Prologue</b> <a href=\"https://arxiv.org/pdf/2605.06137\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2026)</a> . <br /> <em><b>A new paradigm</b> of Auto-regressive (AR) visual generation model.</em>",
+      "zh": "论文已发布至<b>Arxiv.</b> <br /> <b>Autoregressive Visual Generation Needs a Prologue</b> <a href=\"https://arxiv.org/pdf/2605.06137\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2026)</a>。<br /> <em>提出自回归视觉生成的新范式。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-05-06-02",
+    "date": "2026-05-06",
+    "displayDate": "6th May 2026",
+    "html": {
+      "en": "one paper is public on <b>Arxiv.</b> <br /> <b>Taming the Entropy Cliff: Variable Codebook Size Quantization for Autoregressive Visual Generation</b> <a href=\"https://arxiv.org/pdf/2605.06207\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2026)</a> . <br /> <em><b>The first research</b> on the Entropy Cliff phenomenon of the Auto-regressive (AR) visual generation model.</em>",
+      "zh": "论文已发布至<b>Arxiv.</b> <br /> <b>Taming the Entropy Cliff: Variable Codebook Size Quantization for Autoregressive Visual Generation</b> <a href=\"https://arxiv.org/pdf/2605.06207\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2026)</a>。<br /> <em>首次研究自回归视觉生成模型中的熵崖现象。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-04-30-03",
+    "date": "2026-04-30",
+    "displayDate": "30th April 2026",
+    "html": {
+      "en": "one paper is accepted by <b>ICML 2026, Seoul, South Korea.</b> <br /> <b>TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward</b> <a href=\"https://arxiv.org/abs/2603.07700\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2026)</a> . <br /> <em>The first and the best Reinforcement Learning methods for few-step generative models using non-differentiable rewards. With a 6B 4-step SoTA model.</em>",
+      "zh": "论文获接收：<b>ICML 2026（韩国首尔）</b> <br /> <b>TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward</b> <a href=\"https://arxiv.org/abs/2603.07700\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2026)</a>。<br /> <em>探索利用不可微奖励强化少步生成模型的方法，并训练了 6B 参数的四步生成模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-04-30-04",
+    "date": "2026-04-30",
+    "displayDate": "30th April 2026",
+    "html": {
+      "en": "one paper is accepted by <b>ICML 2026, Seoul, South Korea.</b> <br /> <b>Let Language Constrain Geometry: Vision-Language Models as Semantic and Spatial Critics for 3D Generation</b> <a href=\"https://arxiv.org/abs/2511.14271\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a> . <br /> <em>We introduce important techniques that incorporate VLM as rewards for both SDS-based 3D generation and feedforward 3D models.</em>",
+      "zh": "论文获接收：<b>ICML 2026（韩国首尔）</b> <br /> <b>Let Language Constrain Geometry: Vision-Language Models as Semantic and Spatial Critics for 3D Generation</b> <a href=\"https://arxiv.org/abs/2511.14271\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a>。<br /> <em>引入视觉语言模型奖励，同时支持基于 SDS 与前馈模型的三维生成。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-03-19-05",
+    "date": "2026-03-19",
+    "displayDate": "19th March 2026",
+    "html": {
+      "en": "one paper is public on <b>Arxiv.</b> <br /> <b>Multimodal OCR: Parse Anything from Documents</b> <a href=\"https://arxiv.org/pdf/2603.13032\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2026)</a> . <br /> <em><b>State-of-the Art</b> document parsing Vision Language Model.</em>",
+      "zh": "论文已发布至<b>Arxiv.</b> <br /> <b>Multimodal OCR: Parse Anything from Documents</b> <a href=\"https://arxiv.org/pdf/2603.13032\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2026)</a>。<br /> <em>面向文档解析的先进视觉语言模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-03-15-06",
+    "date": "2026-03-15",
+    "displayDate": "15th March 2026",
+    "html": {
+      "en": "one paper is accepted by <b>TPAMI</b> <br /> <b>One-step Diffusion and Flow Distillation through Implicit Generator Matching</b> (Huang et al., 2026) . <br /> <em>Theory and practices of one-step diffusion generator matching.</em>",
+      "zh": "论文获接收：<b>TPAMI</b> <br /> <b>One-step Diffusion and Flow Distillation through Implicit Generator Matching</b> (Huang et al., 2026) . <br /> <em>一步扩散与流模型生成器匹配的理论与实践。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-03-07-07",
+    "date": "2026-03-07",
+    "displayDate": "7th March 2026",
+    "html": {
+      "en": "one paper is public on <b>Arxiv</b> <br /> <b>TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward</b> <a href=\"https://arxiv.org/abs/2603.07700\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2026)</a> . <br /> <em>The first and the best Reinforcement Learning methods for few-step generative models using non-differentiable rewards. With a 6B 4-step SoTA model.</em>",
+      "zh": "论文已发布至<b>arXiv</b> <br /> <b>TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward</b> <a href=\"https://arxiv.org/abs/2603.07700\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2026)</a>。<br /> <em>探索利用不可微奖励强化少步生成模型的方法，并训练了 6B 参数的四步生成模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-02-12-08",
+    "date": "2026-02-12",
+    "displayDate": "12th Feburary 2026",
+    "html": {
+      "en": "one paper is public on <b>Arxiv</b> <br /> <b>ZeroDiff++: Substantial Unseen Visual-semantic Correlation in Zero-shot Learning</b> <a href=\"https://arxiv.org/abs/2602.12401\" rel=\"noopener noreferrer\" target=\"_blank\">(Ye et al., 2026)</a> . <br /> <em>Better Zero Shot Learning (ZSL) powered by generative diffusion.</em>",
+      "zh": "论文已发布至<b>arXiv</b> <br /> <b>ZeroDiff++: Substantial Unseen Visual-semantic Correlation in Zero-shot Learning</b> <a href=\"https://arxiv.org/abs/2602.12401\" rel=\"noopener noreferrer\" target=\"_blank\">(Ye et al., 2026)</a>。<br /> <em>利用生成式扩散模型改进零样本学习（ZSL）。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-02-25-09",
+    "date": "2026-02-25",
+    "displayDate": "25th Feburary 2026",
+    "html": {
+      "en": "one paper is accepted by <b>CVPR 2026</b> <br /> <b>Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning</b> <a href=\"https://arxiv.org/abs/2511.15190\" rel=\"noopener noreferrer\" target=\"_blank\">(Gu et al., 2025)</a> . <br /> <em>Principles for acceleration &amp;&amp; RL of Masked Auto-regressive Models.</em>",
+      "zh": "论文获接收：<b>CVPR 2026</b> <br /> <b>Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning</b> <a href=\"https://arxiv.org/abs/2511.15190\" rel=\"noopener noreferrer\" target=\"_blank\">(Gu et al., 2025)</a>。<br /> <em>探索掩码自回归模型的加速与强化学习原理。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-02-02-10",
+    "date": "2026-02-02",
+    "displayDate": "2nd Feburary 2026",
+    "html": {
+      "en": "one paper is public on <b>Arxiv</b> <br /> <b>Ultra Fast PDE Solving via Physics Guided Few-step Diffusion</b> <a href=\"https://arxiv.org/abs/2602.03627\" rel=\"noopener noreferrer\" target=\"_blank\">(Cindy et al., 2026)</a> . <br /> <em>Solving Partial Differential Equation (PDE) within a second.</em>",
+      "zh": "论文已发布至<b>arXiv</b> <br /> <b>Ultra Fast PDE Solving via Physics Guided Few-step Diffusion</b> <a href=\"https://arxiv.org/abs/2602.03627\" rel=\"noopener noreferrer\" target=\"_blank\">(Cindy et al., 2026)</a>。<br /> <em>在一秒以内求解偏微分方程（PDE）。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2026-01-25-11",
+    "date": "2026-01-25",
+    "displayDate": "25th January 2026",
+    "html": {
+      "en": "one paper is accepted by <b>ICLR 2026</b> <br /> <b>Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct</b> <a href=\"https://arxiv.org/abs/2509.25035\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2025)</a> . <br /> <em>Strong few-step language models that outperform GPT2 (1024 NFE) and dLLMs (1024 NFE) with only 16 NFEs, at the same model size.</em>",
+      "zh": "论文获接收：<b>ICLR 2026</b> <br /> <b>Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct</b> <a href=\"https://arxiv.org/abs/2509.25035\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2025)</a>。<br /> <em>在相同模型规模下，仅用 16 次函数评估（NFE）即可超越使用 1024 次评估的 GPT-2 和离散扩散语言模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-12-20-12",
+    "date": "2025-12-20",
+    "displayDate": "20th December, 2025",
+    "html": {
+      "en": "one paper is accepted by <b>Transactions on Machine Learning Research (TMLR)</b> . <br /> <b>Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching</b> <a href=\"https://openreview.net/pdf?id=OUYMueHLMf\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a> <em><a href=\"https://ai4scientificimaging.org/dive3d/\" rel=\"noopener noreferrer\" target=\"_blank\">Dive3D</a> introduces <a href=\"https://arxiv.org/abs/2410.16794\" rel=\"noopener noreferrer\" target=\"_blank\">Score-implicit Matching</a> techniques to text-to-3D generation, which significantly improves generative diversity as well as quality.</em>",
+      "zh": "论文获接收：<b>Transactions on Machine Learning Research (TMLR)</b>。<br /> <b>Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching</b> <a href=\"https://openreview.net/pdf?id=OUYMueHLMf\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a> <em><a href=\"https://ai4scientificimaging.org/dive3d/\" rel=\"noopener noreferrer\" target=\"_blank\">Dive3D</a> 将 <a href=\"https://arxiv.org/abs/2410.16794\" rel=\"noopener noreferrer\" target=\"_blank\">Score-implicit Matching</a> 方法引入文生三维任务，显著提升生成的多样性与质量。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-12-20-13",
+    "date": "2025-12-20",
+    "displayDate": "20st December 2025",
+    "html": {
+      "en": "one paper is public on <b>Arxiv</b> <br /> <b>Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning</b> <a href=\"https://arxiv.org/abs/2511.15190\" rel=\"noopener noreferrer\" target=\"_blank\">(Gu et al., 2025)</a> . <br /> <em>We introduce principal methods for distillation and reinforcement learning of Masked Auto-regressive Models.</em>",
+      "zh": "论文已发布至<b>arXiv</b> <br /> <b>Masked Auto-Regressive Variational Acceleration: Fast Inference Makes Practical Reinforcement Learning</b> <a href=\"https://arxiv.org/abs/2511.15190\" rel=\"noopener noreferrer\" target=\"_blank\">(Gu et al., 2025)</a>。<br /> <em>提出掩码自回归模型蒸馏与强化学习的基础方法。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-12-20-14",
+    "date": "2025-12-20",
+    "displayDate": "20st December 2025",
+    "html": {
+      "en": "one paper is public on <b>Arxiv</b> <br /> <b>Let Language Constrain Geometry: Vision-Language Models as Semantic and Spatial Critics for 3D Generation</b> <a href=\"https://arxiv.org/abs/2511.14271\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a> . <br /> <em>We introduce important techniques that incorporate VLM as rewards for both SDS-based 3D generation and feedforward 3D models.</em>",
+      "zh": "论文已发布至<b>arXiv</b> <br /> <b>Let Language Constrain Geometry: Vision-Language Models as Semantic and Spatial Critics for 3D Generation</b> <a href=\"https://arxiv.org/abs/2511.14271\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a>。<br /> <em>引入视觉语言模型奖励，同时支持基于 SDS 与前馈模型的三维生成。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-10-01-15",
+    "date": "2025-10-01",
+    "displayDate": "1st October 2025",
+    "html": {
+      "en": "one paper is public on <b>Arxiv</b> <br /> <b>Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct</b> <a href=\"https://arxiv.org/abs/2509.25035\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2025)</a> . <br /> <em>We introduce DiDi-Instruct, a very strong few-step language model that outperforms GPT2 (1024 NFE) and dLLMs (1024 NFE) with only 16 NFEs, at the same model size.</em>",
+      "zh": "论文已发布至<b>arXiv</b> <br /> <b>Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct</b> <a href=\"https://arxiv.org/abs/2509.25035\" rel=\"noopener noreferrer\" target=\"_blank\">(Zheng et al., 2025)</a>。<br /> <em>提出 DiDi-Instruct 少步语言模型，在相同模型规模下，仅用 16 次函数评估即可超越使用 1024 次评估的 GPT-2 和离散扩散语言模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-09-18-16",
+    "date": "2025-09-18",
+    "displayDate": "18th September 2025",
+    "html": {
+      "en": "one paper is accepted by <b>NeurIPS 2025</b> @ San Diego and Mexican City. <br /> <b>Reward-Instruct: A Reward-Centric Approach to Fast Photo-Realistic Image Generation</b> <a href=\"https://arxiv.org/abs/2503.13070\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2025)</a> . <br /> <em>We present a novel finding: reward maximization with proper regularizations can effectively train large-scale few-step text-to-image generative models.</em>",
+      "zh": "论文获接收：<b>NeurIPS 2025</b>（美国圣迭戈、墨西哥城）。<br /> <b>Reward-Instruct: A Reward-Centric Approach to Fast Photo-Realistic Image Generation</b> <a href=\"https://arxiv.org/abs/2503.13070\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2025)</a>。<br /> <em>发现配合适当正则化的奖励最大化，可以有效训练大规模少步文生图模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-09-18-17",
+    "date": "2025-09-18",
+    "displayDate": "18th September, 2025",
+    "html": {
+      "en": "one paper is accepted by <b>NeurIPS 2025</b> @ San Diego and Mexican City. <br /> <b>Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction</b> <a href=\"https://arxiv.org/abs/2505.20755\" rel=\"noopener noreferrer\" target=\"_blank\">(Wang et al., 2025)</a> <em>Uni-Instruct unifies over 10 existing one-step diffusion distillation in theory, with an absolute SoTA one-step FID of 1.02 on ImageNet64 generation benchmark.</em>",
+      "zh": "论文获接收：<b>NeurIPS 2025</b>（美国圣迭戈、墨西哥城）。<br /> <b>Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction</b> <a href=\"https://arxiv.org/abs/2505.20755\" rel=\"noopener noreferrer\" target=\"_blank\">(Wang et al., 2025)</a> <em>Uni-Instruct 在理论上统一了十余种一步扩散蒸馏方法，并在 ImageNet64 生成基准上取得 1.02 的一步 FID。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-09-12-18",
+    "date": "2025-09-12",
+    "displayDate": "12th September, 2025",
+    "html": {
+      "en": "one paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence ( <b>TPAMI</b> ). <br /> <b>Self-Guidance: Boosting Flow and Diffusion Generation on Their Own</b> <a href=\"https://arxiv.org/abs/2412.05827\" rel=\"noopener noreferrer\" target=\"_blank\">(Li et al., 2024)</a> . <br /> <em>Congratulations to my mentee student, Tiancheng, for getting a TPAMI acceptance in his first Ph.D. year.</em>",
+      "zh": "论文获 IEEE Transactions on Pattern Analysis and Machine Intelligence（<b>TPAMI</b>）。<br /> <b>Self-Guidance: Boosting Flow and Diffusion Generation on Their Own</b> <a href=\"https://arxiv.org/abs/2412.05827\" rel=\"noopener noreferrer\" target=\"_blank\">(Li et al., 2024)</a>。<br /> <em>祝贺指导的学生 Tiancheng 在博士一年级获得 TPAMI 论文接收。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-08-26-19",
+    "date": "2025-08-26",
+    "displayDate": "26th Agust, 2025",
+    "html": {
+      "en": "Introducing the dots.VLM1 by hi-lab: a large and versatile vision-language model built upon DeepseekV3 LLM architecture and an internal 1.2B MoE Vision Encoder. We train the VLM and VE from scratch, resulting in a model on par with leading VLMs on some metrics. <b>Arxiv</b> . <br /> <b>Technical report of the dots.vlm1.</b> <a href=\"https://github.com/rednote-hilab/dots.vlm1/blob/main/README.md\" rel=\"noopener noreferrer\" target=\"_blank\" >(hi-lab multimodal team)</a>",
+      "zh": "hi-lab 发布 dots.VLM1：基于 DeepSeek V3 语言模型架构与内部研发的 1.2B 参数 MoE 视觉编码器构建的大规模通用视觉语言模型。语言视觉模型与视觉编码器均从零训练，并在部分指标上达到领先模型的水平。<br><b>Technical report of the dots.vlm1.</b> <a href=\"https://github.com/rednote-hilab/dots.vlm1/blob/main/README.md\" rel=\"noopener noreferrer\" target=\"_blank\" >(hi-lab multimodal team)</a>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-06-16-20",
+    "date": "2025-06-16",
+    "displayDate": "16th June, 2025",
+    "html": {
+      "en": "one preprint paper is public on <b>Arxiv</b> . <br /> <b>Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching</b> <a href=\"https://arxiv.org/abs/2506.13594\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a> <em><a href=\"https://ai4scientificimaging.org/dive3d/\" rel=\"noopener noreferrer\" target=\"_blank\">Dive3D</a> introduces <a href=\"https://arxiv.org/abs/2410.16794\" rel=\"noopener noreferrer\" target=\"_blank\">Score-implicit Matching</a> techniques to text-to-3D generation, which significantly improves generative diversity as well as quality.</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Dive3D: Diverse Distillation-based Text-to-3D Generation via Score Implicit Matching</b> <a href=\"https://arxiv.org/abs/2506.13594\" rel=\"noopener noreferrer\" target=\"_blank\">(Bai et al., 2025)</a> <em><a href=\"https://ai4scientificimaging.org/dive3d/\" rel=\"noopener noreferrer\" target=\"_blank\">Dive3D</a> 将 <a href=\"https://arxiv.org/abs/2410.16794\" rel=\"noopener noreferrer\" target=\"_blank\">Score-implicit Matching</a> 方法引入文生三维任务，显著提升生成的多样性与质量。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-05-25-21",
+    "date": "2025-05-25",
+    "displayDate": "25th May, 2025",
+    "html": {
+      "en": "one preprint paper is public on <b>Arxiv</b> . <br /> <b>Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction</b> <a href=\"https://arxiv.org/abs/2505.20755\" rel=\"noopener noreferrer\" target=\"_blank\">(Wang et al., 2025)</a> <em>Uni-Instruct unifies over 10 existing one-step diffusion distillation in theory, with an absolute SoTA one-step FID of 1.02 on ImageNet64 generation benchmark.</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction</b> <a href=\"https://arxiv.org/abs/2505.20755\" rel=\"noopener noreferrer\" target=\"_blank\">(Wang et al., 2025)</a> <em>Uni-Instruct 在理论上统一了十余种一步扩散蒸馏方法，并在 ImageNet64 生成基准上取得 1.02 的一步 FID。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-05-04-22",
+    "date": "2025-05-04",
+    "displayDate": "4th May, 2025",
+    "html": {
+      "en": "one paper accepted by <b>International Conference of Machine Learning (ICML) 2025</b> . <br /> <b>Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models</b> <a href=\"https://arxiv.org/abs/2410.20898\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2024)</a> <em>We introduced a novel score-based PPO algorithm for RL fine-tuning of 1-step text-to-image generative models. Our open-sourced 0.6B <a href=\"https://github.com/pkulwj1994/diff_instruct_star/blob/main/distar_1024.ipynb\" rel=\"noopener noreferrer\" target=\"_blank\" >DIstar-SDXL-1step model</a> outperforms the 12B <a href=\"https://huggingface.co/black-forest-labs/FLUX.1-dev\" rel=\"noopener noreferrer\" target=\"_blank\" >FLUX-dev diffusion model</a> in human preference scores.</em>",
+      "zh": "论文获接收：<b>国际机器学习大会（ICML）2025</b>。<br /> <b>Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models</b> <a href=\"https://arxiv.org/abs/2410.20898\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2024)</a> <em>提出基于得分的 PPO 算法，用于一步文生图模型的强化学习微调。开源的 0.6B 参数 <a href=\"https://github.com/pkulwj1994/diff_instruct_star/blob/main/distar_1024.ipynb\" rel=\"noopener noreferrer\" target=\"_blank\" >DIstar-SDXL-1step model</a> 在人类偏好评分上超越了 12B 参数的 <a href=\"https://huggingface.co/black-forest-labs/FLUX.1-dev\" rel=\"noopener noreferrer\" target=\"_blank\" >FLUX-dev diffusion model</a>。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-03-19-23",
+    "date": "2025-03-19",
+    "displayDate": "19th March 2025",
+    "html": {
+      "en": "one preprint paper is public on <b>Arxiv</b> . <br /> <b>Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation</b> <a href=\"https://arxiv.org/abs/2503.13070\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2025)</a> . <br /> <em>We present a novel finding: reward maximization with proper regularizations can effectively train large-scale few-step text-to-image generative models.</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation</b> <a href=\"https://arxiv.org/abs/2503.13070\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2025)</a>。<br /> <em>发现配合适当正则化的奖励最大化，可以有效训练大规模少步文生图模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-02-27-24",
+    "date": "2025-02-27",
+    "displayDate": "27th February 2025",
+    "html": {
+      "en": "one paper accepted by <b>CVPR 2025</b> . <br /> <b>Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation</b> <a href=\"https://arxiv.org/abs/2412.01243\" rel=\"noopener noreferrer\" target=\"_blank\">(Ye et al., 2024)</a> . <br /> <em>We explore a novel attempt to use reinforcement learning for training diffusion models, with a very strong diffusion model with adaptive generation steps.</em>",
+      "zh": "论文获接收：<b>CVPR 2025</b>。<br /> <b>Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation</b> <a href=\"https://arxiv.org/abs/2412.01243\" rel=\"noopener noreferrer\" target=\"_blank\">(Ye et al., 2024)</a>。<br /> <em>探索利用强化学习训练扩散模型，构建具备自适应生成步数的模型。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2025-01-23-25",
+    "date": "2025-01-23",
+    "displayDate": "23th January 2025",
+    "html": {
+      "en": "one paper accepted by <b>ICLR 2025</b> . <br /> <a href=\"https://arxiv.org/abs/2406.14548\" rel=\"noopener noreferrer\" target=\"_blank\">Consistency Models Made Easy</a> . <br /> <em>We introduce a set of practical techniques for efficient training of consistency models, together with a comprehensive study on the Scaling Law of consistency models.</em>",
+      "zh": "论文获接收：<b>ICLR 2025</b>。<br /> <a href=\"https://arxiv.org/abs/2406.14548\" rel=\"noopener noreferrer\" target=\"_blank\">Consistency Models Made Easy</a>。<br /> <em>提出一组高效训练一致性模型的实用技术，并系统研究一致性模型的规模定律。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-12-05-26",
+    "date": "2024-12-05",
+    "displayDate": "5th Dec 2024",
+    "html": {
+      "en": "One pre-print is public on <b>Arxiv</b> . <br /> <b>Self-Guidance: Boosting Flow and Diffusion Generation on Their Own</b> <a href=\"https://arxiv.org/abs/2412.05827\" rel=\"noopener noreferrer\" target=\"_blank\">(Li et al., 2024)</a> . <br /> <em><b>Self-guidance</b> can improve human hands and bodies of images generated by diffusion or flow models.</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Self-Guidance: Boosting Flow and Diffusion Generation on Their Own</b> <a href=\"https://arxiv.org/abs/2412.05827\" rel=\"noopener noreferrer\" target=\"_blank\">(Li et al., 2024)</a>。<br /> <em>Self-Guidance 能够改善扩散模型与流模型所生成图像中的手部和身体细节。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-12-01-27",
+    "date": "2024-12-01",
+    "displayDate": "1st Dec 2024",
+    "html": {
+      "en": "One pre-print is public on <b>Arxiv</b> . <br /> <b>Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation</b> <a href=\"https://arxiv.org/abs/2412.01243\" rel=\"noopener noreferrer\" target=\"_blank\">(Ye et al., 2024)</a> . <br /> <em>We introduced an approach for training variable-time-schedule diffusion models using reinforcement learning.</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation</b> <a href=\"https://arxiv.org/abs/2412.01243\" rel=\"noopener noreferrer\" target=\"_blank\">(Ye et al., 2024)</a>。<br /> <em>提出通过强化学习训练可变时间调度扩散模型的方法。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-11-21-28",
+    "date": "2024-11-21",
+    "displayDate": "21st Nov 2024",
+    "html": {
+      "en": "One single-author paper accepted by Transactions on Machine Learning Research ( <b>TMLR</b> ) . <br /> <b>Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences</b> <a href=\"https://arxiv.org/abs/2410.18881\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo, 2024)</a> . <br /> <em><b>Diff-Instruct++</b> is the first work on preference alignment of one-step text-to-image generative models, opening the preference alignment with the distillation of diffusion and flow models.</em>",
+      "zh": "一篇独立作者论文获 Transactions on Machine Learning Research（<b>TMLR</b>）。<br /> <b>Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences</b> <a href=\"https://arxiv.org/abs/2410.18881\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo, 2024)</a>。<br /> <em>Diff-Instruct++ 研究一步文生图模型的人类偏好对齐，将偏好对齐与扩散、流模型蒸馏相结合。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-11-12-29",
+    "date": "2024-11-12",
+    "displayDate": "12th Nov 2024",
+    "html": {
+      "en": "Delivered an invited talk at the <strong>Google Deepmind Diffusion Reading Group</strong> titiled <strong>A Path to Human-preferred One-step Text-to-image Generative Models</strong> . Check the <a href=\"https://drive.google.com/file/d/1NrhHBKtVcZ8Jf2-I8v_QKz-Xsdvfqof0/view?usp=sharing\"><strong>[Slides]</strong></a> here.",
+      "zh": "受邀在 <strong>Google DeepMind 扩散模型读书会</strong>作报告：<strong>迈向符合人类偏好的一步文生图模型</strong>。报告幻灯片见 <a href=\"https://drive.google.com/file/d/1NrhHBKtVcZ8Jf2-I8v_QKz-Xsdvfqof0/view?usp=sharing\"><strong>[Slides]</strong></a>。"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-10-30-30",
+    "date": "2024-10-30",
+    "displayDate": "30th Oct 2024",
+    "html": {
+      "en": "Be invited to give an (internal) online academic talk in the <strong>Google Deepmind research</strong> team on 12th Nov. The talk title is <strong>One-step Text-to-image Generative Models: from Diffusion Distillation to Human-preference Alignment</strong> . In this talk, I will share some exciting progress in improving human preferences for one-step and few-step text-to-image generative models through the lens of Reinforcement Learning using Human Feedback (RLHF). Readers can refer to <a href=\"https://arxiv.org/abs/2410.18881\" rel=\"noopener noreferrer\" target=\"_blank\">Diff-Insruct++</a> and <a href=\"https://arxiv.org/abs/2410.20898\" rel=\"noopener noreferrer\" target=\"_blank\">Diff-Insruct*</a> for technical details.",
+      "zh": "受邀于 11 月 12 日为 <strong>Google DeepMind 研究团队</strong>作线上内部学术报告，主题为<strong>一步文生图模型：从扩散蒸馏到人类偏好对齐</strong>。报告将从人类反馈强化学习（RLHF）的角度，介绍提升一步与少步文生图模型人类偏好的研究进展。技术细节可参见 <a href=\"https://arxiv.org/abs/2410.18881\" rel=\"noopener noreferrer\" target=\"_blank\">Diff-Insruct++</a> 与 <a href=\"https://arxiv.org/abs/2410.20898\" rel=\"noopener noreferrer\" target=\"_blank\">Diff-Insruct*</a>。"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-10-25-31",
+    "date": "2024-10-25",
+    "displayDate": "25th Oct 2024",
+    "html": {
+      "en": "An invited talk delivered at the Biomedical Engineering lab led by <a href=\"http://users.cms.caltech.edu/~hesun/\">Dr. Sun</a> at Peking University, Beijing, China. The talk is on <strong>Recent Progresses on Diffusion Distillation</strong> .",
+      "zh": "在北京大学 <a href=\"http://users.cms.caltech.edu/~hesun/\">Dr. Sun</a> 带领的生物医学工程实验室作受邀报告，主题为<strong>扩散模型蒸馏的近期进展</strong>。"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-10-20-32",
+    "date": "2024-10-20",
+    "displayDate": "20th Oct 2024",
+    "html": {
+      "en": "Had an academic visit to MAPLE lab led by <a href=\"https://www.westlake.edu.cn/faculty/guojun-qi.html\" rel=\"noopener noreferrer\" target=\"_blank\">Dr. Qi</a> in Westlake University, Hangzhou, China. Delivered a talk on <strong>Efficient Generative Models</strong> to lab members.",
+      "zh": "访问位于杭州的西湖大学 <a href=\"https://www.westlake.edu.cn/faculty/guojun-qi.html\" rel=\"noopener noreferrer\" target=\"_blank\">Dr. Qi</a> 带领的 MAPLE 实验室，并向实验室成员作<strong>高效生成式模型</strong>报告。"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-10-18-33",
+    "date": "2024-10-18",
+    "displayDate": "18th Oct 2024",
+    "html": {
+      "en": "one reprint released on <b>Arxiv</b> . <br /> <b>One-step Flow Matching Generators</b> <a href=\"https://arxiv.org/abs/2410.19310\" rel=\"noopener noreferrer\" target=\"_blank\">(Huang et al., 2024)</a> . <br /> <em>We introduce a novel method to distill the flow-matching-based Stable Diffusion 3 model into strong one-step generators.</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>One-step Flow Matching Generators</b> <a href=\"https://arxiv.org/abs/2410.19310\" rel=\"noopener noreferrer\" target=\"_blank\">(Huang et al., 2024)</a>。<br /> <em>提出将基于流匹配的 Stable Diffusion 3 模型蒸馏为高性能一步生成器的方法。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-10-18-34",
+    "date": "2024-10-18",
+    "displayDate": "18th Oct 2024",
+    "html": {
+      "en": "one reprint released on <b>Arxiv</b> . <br /> <b>Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models</b> <a href=\"https://arxiv.org/abs/2410.20898\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2024)</a> . <br /> <em>This paper introduces the <b>Diff-Instruct*</b> , a novel approach to train human-preferred large-scale one-step text-to-image generative models through the lens of online RLHF with general score-based constraints. The resulting one-step 0.6B DiT-DI* model achieves a SoTA <a href=\"https://github.com/tgxs002/HPSv2\" rel=\"noopener noreferrer\" target=\"_blank\">HPSv2.0</a> score of <b>28.70</b> .</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Diff-Instruct*: Towards Human-Preferred One-step Text-to-image Generative Models</b> <a href=\"https://arxiv.org/abs/2410.20898\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., 2024)</a>。<br /> <em>提出 Diff-Instruct*，通过在线 RLHF 与通用得分约束，训练符合人类偏好的大规模一步文生图模型。所得 0.6B 参数 DiT-DI* 模型取得 28.70 的 <a href=\"https://github.com/tgxs002/HPSv2\" rel=\"noopener noreferrer\" target=\"_blank\">HPSv2.0</a> 评分。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-10-17-35",
+    "date": "2024-10-17",
+    "displayDate": "17th Oct 2024",
+    "html": {
+      "en": "one reprint released on <b>Arxiv</b> . <br /> <b>Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences</b> <a href=\"https://arxiv.org/abs/2410.18881\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo, 2024)</a> . <br /> <em>This paper introduces the <b>Diff-Instruct++</b> , the first attempt at human preference alignment of large-scale one-step text-to-image generative models. The aligned one-step 0.6B DiT-DI++ model achieves a leading <a href=\"https://github.com/tgxs002/HPSv2\" rel=\"noopener noreferrer\" target=\"_blank\">HPSv2.0</a> score of <b>28.48</b> .</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences</b> <a href=\"https://arxiv.org/abs/2410.18881\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo, 2024)</a>。<br /> <em>提出 Diff-Instruct++，探索大规模一步文生图模型的人类偏好对齐。对齐后的 0.6B 参数 DiT-DI++ 模型取得 28.48 的 <a href=\"https://github.com/tgxs002/HPSv2\" rel=\"noopener noreferrer\" target=\"_blank\">HPSv2.0</a> 评分。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-10-14-36",
+    "date": "2024-10-14",
+    "displayDate": "14th Oct 2024",
+    "html": {
+      "en": "I defended my PhD Thesis in 14th Oct in <a href=\"http://english.pku.edu.cn\">Peking University</a> . I feel humbled and grateful to be loved and helped by great advisors, family, and awesome friends.",
+      "zh": "于 10 月 14 日在 <a href=\"http://english.pku.edu.cn\">Peking University</a> 完成博士论文答辩。衷心感谢导师、家人与朋友们的帮助和支持。"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-09-26-37",
+    "date": "2024-09-26",
+    "displayDate": "26th Sep 2024",
+    "html": {
+      "en": "one paper accepted by <b>NeurIPS 2024</b> . <br /> <b>One-step Diffusion Distillation Through Score Implicit Matching</b> <a href=\"https://arxiv.org/abs/2410.16794\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., NeurIPS 2024)</a> . <br /> <em>We introduce the score implicit matching, a novel one-step diffusion distillation approach with an amazing one-step text-to-image generative model. Appreciation to Prof. Zico Kolter and Prof. Guojun Qi.</em>",
+      "zh": "论文获接收：<b>NeurIPS 2024</b>。<br /> <b>One-step Diffusion Distillation Through Score Implicit Matching</b> <a href=\"https://arxiv.org/abs/2410.16794\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo et al., NeurIPS 2024)</a>。<br /> <em>提出得分隐式匹配（Score Implicit Matching），用于一步扩散蒸馏与一步文生图。感谢 Zico Kolter 教授与 Guo-jun Qi 教授的支持。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-06-20-38",
+    "date": "2024-06-20",
+    "displayDate": "20th Jun 2024",
+    "html": {
+      "en": "one preprint released on <b>Arxiv</b> . <br /> <b>Consistency Models Made Easy</b> <a href=\"https://arxiv.org/abs/2406.14548\" rel=\"noopener noreferrer\" target=\"_blank\">(Geng et al., 2024)</a> . <br /> <em>We introduce a set of practical techniques for efficient training of consistency models, together with a comprehensive study on the Scaling Law of consistency models.</em>",
+      "zh": "预印本已发布至<b>arXiv</b>。<br /> <b>Consistency Models Made Easy</b> <a href=\"https://arxiv.org/abs/2406.14548\" rel=\"noopener noreferrer\" target=\"_blank\">(Geng et al., 2024)</a>。<br /> <em>提出一组高效训练一致性模型的实用技术，并系统研究一致性模型的规模定律。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2024-04-24-39",
+    "date": "2024-04-24",
+    "displayDate": "24th Apr 2024",
+    "html": {
+      "en": "one paper accepted by <b>ICML 2024</b> . <br /> <b>Variational Schr&ouml;dinger Diffusion Models</b> <a href=\"https://openreview.net/forum?id=kRv0WPJd00\" rel=\"noopener noreferrer\" target=\"_blank\">(Deng et al., ICML 2024)</a> . <br /> <em>We introduce an efficient simulation-free Schr&ouml;dinger diffusion model, with wide applications for image and time-series generation. Congratulations to Yixin and Dr. Deng.</em>",
+      "zh": "论文获接收：<b>ICML 2024</b>。<br /> <b>Variational Schr&ouml;dinger Diffusion Models</b> <a href=\"https://openreview.net/forum?id=kRv0WPJd00\" rel=\"noopener noreferrer\" target=\"_blank\">(Deng et al., ICML 2024)</a>。<br /> <em>提出高效、无需模拟的薛定谔扩散模型，可用于图像与时间序列生成。祝贺 Yixin 与 Deng 博士。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2023-09-26-40",
+    "date": "2023-09-26",
+    "displayDate": "26th Sep 2023",
+    "html": {
+      "en": "oone paper accepted by <b>NeurIPS 2023</b> . <br /> <b>Diff-instruct: A Universal Approach for Transferring Knowledge from Pre-trained Diffusion Models</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/f115f619b62833aadc5acb058975b0e6-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Luo et al., NeurIPS 2023)</a> . <br /> <em>Diff-Instruct is a one-step diffusion distillation approach through the lens of distribution matching, with applications on text-to-3D generation and improving GAN generators.</em>",
+      "zh": "论文获接收：<b>NeurIPS 2023</b>。<br /> <b>Diff-instruct: A Universal Approach for Transferring Knowledge from Pre-trained Diffusion Models</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/f115f619b62833aadc5acb058975b0e6-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Luo et al., NeurIPS 2023)</a>。<br /> <em>Diff-Instruct 从分布匹配的角度实现一步扩散蒸馏，可用于文生三维与改进 GAN 生成器。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2023-09-26-41",
+    "date": "2023-09-26",
+    "displayDate": "26th Sep 2023",
+    "html": {
+      "en": "one paper accepted by <b>NeurIPS 2023</b> . <br /> <b>Entropy-based Training Methods for Scalable Neural Implicit Samplers</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/1646e34971facbcda3727d1dc28ab635-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Luo et al., NeurIPS 2023)</a> . <br /> <em>We introduced two interesting training approaches for neural implicit samplers termed KL and Fisher training.</em>",
+      "zh": "论文获接收：<b>NeurIPS 2023</b>。<br /> <b>Entropy-based Training Methods for Scalable Neural Implicit Samplers</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/1646e34971facbcda3727d1dc28ab635-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Luo et al., NeurIPS 2023)</a>。<br /> <em>提出用于神经隐式采样器的 KL 训练与 Fisher 训练两种方法。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2023-09-26-42",
+    "date": "2023-09-26",
+    "displayDate": "26th Sep 2023",
+    "html": {
+      "en": "one paper accepted by <b>NeurIPS 2023</b> . <br /> <b>SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4a6806490d31216a3ba667eb240c897-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Xue et al., NeurIPS 2023)</a> . <br /> <em>We introduced a novel diffusion sampler based on the Stochastic Adam theory, integrated for PixelArt-alpha diffusion models.</em>",
+      "zh": "论文获接收：<b>NeurIPS 2023</b>。<br /> <b>SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4a6806490d31216a3ba667eb240c897-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Xue et al., NeurIPS 2023)</a>。<br /> <em>基于随机 Adams 方法提出新型扩散采样器，并集成到 PixelArt-alpha 扩散模型中。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2023-09-26-43",
+    "date": "2023-09-26",
+    "displayDate": "26th Sep 2023",
+    "html": {
+      "en": "one paper accepted by <b>NeurIPS 2023</b> . <br /> <b>Enhancing Adversarial Robustness via Score-based Optimization</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/a2e707354da36956945dbb288efe82b3-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Zhang et al., NeurIPS 2023)</a> . <br /> <em>We introduced a novel optimization-based adversarial defense based on pre-trained diffusion models.</em>",
+      "zh": "论文获接收：<b>NeurIPS 2023</b>。<br /> <b>Enhancing Adversarial Robustness via Score-based Optimization</b> <a href=\"https://proceedings.neurips.cc/paper_files/paper/2023/hash/a2e707354da36956945dbb288efe82b3-Abstract-Conference.html\" rel=\"noopener noreferrer\" target=\"_blank\" >(Zhang et al., NeurIPS 2023)</a>。<br /> <em>提出基于预训练扩散模型、通过优化实现对抗防御的方法。</em>"
+    },
+    "visible": true
+  },
+  {
+    "id": "update-2023-04-09-44",
+    "date": "2023-04-09",
+    "displayDate": "9th Apr 2023",
+    "html": {
+      "en": "one paper released on <b>Arxiv</b> . <br /> <b>A Comprehensive Survey on Knowledge Distillation of Diffusion Models</b> <a href=\"https://arxiv.org/abs/2304.04262\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo, 2023)</a> . <br /> <em>The first survey on diffusion distillation and knowledge transferring of diffusion models.</em>",
+      "zh": "论文已发布至<b>arXiv</b>。<br /> <b>A Comprehensive Survey on Knowledge Distillation of Diffusion Models</b> <a href=\"https://arxiv.org/abs/2304.04262\" rel=\"noopener noreferrer\" target=\"_blank\">(Luo, 2023)</a>。<br /> <em>关于扩散蒸馏与扩散模型知识迁移的首篇综述。</em>"
+    },
+    "visible": true
+  }
+]

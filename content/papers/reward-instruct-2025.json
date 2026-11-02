@@ -1,0 +1,31 @@
+{
+  "id": "reward-instruct-2025",
+  "published": true,
+  "year": 2025,
+  "title": {
+    "en": "Reward-Instruct: A Reward-Centric Approach to Fast Photo-Realistic Image Generation",
+    "zh": "Reward-Instruct：以奖励为核心的快速照片级图像生成"
+  },
+  "authors": [
+    "Yihong Luo*",
+    "Tianyang Hu*",
+    "Weijian Luo ",
+    "Kenji Kawaguchi",
+    "and Jing Tang"
+  ],
+  "status": {
+    "en": "NeurIPS, 2025",
+    "zh": "NeurIPS，2025"
+  },
+  "summary": "",
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2503.13070"
+    }
+  ],
+  "featured": false
+}

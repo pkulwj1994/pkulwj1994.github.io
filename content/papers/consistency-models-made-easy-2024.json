@@ -1,0 +1,58 @@
+{
+  "id": "consistency-models-made-easy-2024",
+  "published": true,
+  "year": 2025,
+  "title": {
+    "en": "Consistency Models Made Easy",
+    "zh": "让一致性模型更易训练"
+  },
+  "authors": [
+    "Zhengyang Geng",
+    "Ashwini Pokle",
+    "Weijian Luo ",
+    "Justin Lin",
+    "J Zico Kolter"
+  ],
+  "status": {
+    "en": "ICLR 2025",
+    "zh": "ICLR 2025"
+  },
+  "summary": {
+    "en": "Easy Consistency Tuning adapts pre-trained diffusion models for efficient consistency generation.",
+    "zh": "通过简易一致性微调（ECT），将预训练扩散模型转化为高效的一致性生成模型。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://proceedings.iclr.cc/paper_files/paper/2025/hash/bb166dd4de5dba363bf1023eb956a826-Abstract-Conference.html"
+    },
+    {
+      "label": "arXiv",
+      "url": "https://arxiv.org/abs/2406.14548"
+    }
+  ],
+  "featured": true,
+  "featuredOrder": 5,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/consistency-models-demo.gif",
+      "zh": "assets/papers/consistency-models-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/consistency-models-poster.png",
+      "zh": "assets/papers/consistency-models-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual method animation: easy consistency tuning.",
+      "zh": "简易一致性微调的方法流程示意动图。"
+    },
+    "caption": {
+      "en": "Method illustration · easy consistency tuning",
+      "zh": "方法示意 · 简易一致性微调"
+    }
+  }
+}

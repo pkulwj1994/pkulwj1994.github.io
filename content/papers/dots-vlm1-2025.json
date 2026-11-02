@@ -1,0 +1,20 @@
+{
+  "id": "dots-vlm1-2025",
+  "published": true,
+  "year": 2025,
+  "title": {
+    "en": "Technical report of the dots.vlm1",
+    "zh": "dots.vlm1 技术报告"
+  },
+  "authors": [
+    "hi-lab multimodal team",
+    "Xiaohongshu Inc."
+  ],
+  "status": {
+    "en": "preprint, 2025",
+    "zh": "预印本，2025"
+  },
+  "summary": "",
+  "links": [],
+  "featured": false
+}

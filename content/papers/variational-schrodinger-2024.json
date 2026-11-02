@@ -1,0 +1,60 @@
+{
+  "id": "variational-schrodinger-2024",
+  "published": true,
+  "year": 2024,
+  "title": {
+    "en": "Variational Schrödinger Diffusion Models",
+    "zh": "变分薛定谔扩散模型"
+  },
+  "authors": [
+    "Wei Deng*",
+    "Weijian Luo* ",
+    "Yixin Tan*",
+    "Marin Biloš",
+    "Yu Chen",
+    "Yuriy Nevmyvaka",
+    "Ricky TQ Chen"
+  ],
+  "status": {
+    "en": "ICML , 2024",
+    "zh": "ICML，2024"
+  },
+  "summary": {
+    "en": "Adaptive variational scores enable efficient diffusion transport and simulation-free score training.",
+    "zh": "通过自适应变分得分，实现高效扩散传输与无需轨迹模拟的得分训练。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://proceedings.mlr.press/v235/deng24c.html"
+    },
+    {
+      "label": "OpenReview",
+      "url": "https://openreview.net/forum?id=kRv0WPJd00"
+    }
+  ],
+  "featured": true,
+  "featuredOrder": 6,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/variational-schrodinger-demo.gif",
+      "zh": "assets/papers/variational-schrodinger-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/variational-schrodinger-poster.png",
+      "zh": "assets/papers/variational-schrodinger-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual method animation: variational diffusion transport.",
+      "zh": "变分扩散传输的方法流程示意动图。"
+    },
+    "caption": {
+      "en": "Method illustration · variational diffusion transport",
+      "zh": "方法示意 · 变分扩散传输"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sa-solver-2023",
+  "published": true,
+  "year": 2023,
+  "title": {
+    "en": "SA-Solver: Stochastic Adams Solver for Fast Sampling of Diffusion Models",
+    "zh": "SA-Solver：用于扩散模型快速采样的随机 Adams 求解器"
+  },
+  "authors": [
+    "Shuchen Xue",
+    "Mingyang Yi",
+    "Weijian Luo ",
+    "Shifeng Zhang",
+    "Jiacheng Sun",
+    "Zhengguo Li",
+    "Zhiming Ma"
+  ],
+  "status": {
+    "en": "NeurIPS , 2023",
+    "zh": "NeurIPS，2023"
+  },
+  "summary": "",
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/f4a6806490d31216a3ba667eb240c897-Abstract-Conference.html"
+    }
+  ],
+  "featured": false
+}

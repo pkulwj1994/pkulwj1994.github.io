@@ -1,0 +1,50 @@
+{
+  "id": "diffusion-distillation-survey-2023",
+  "published": true,
+  "year": 2023,
+  "title": {
+    "en": "A Comprehensive Survey on Knowledge Distillation of Diffusion Models",
+    "zh": "扩散模型知识蒸馏综述"
+  },
+  "authors": [
+    "Weijian Luo"
+  ],
+  "status": {
+    "en": "arXiv preprint , arXiv:2304.04262, 2023",
+    "zh": "arXiv 预印本，arXiv:2304.04262，2023"
+  },
+  "summary": {
+    "en": "A structured overview of diffusion distillation, implicit generators, and training-free accelerated sampling.",
+    "zh": "系统梳理扩散蒸馏、隐式生成器与无需训练的加速采样方法。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2304.04262"
+    }
+  ],
+  "featured": true,
+  "featuredOrder": 7,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/diffusion-distillation-survey-demo.gif",
+      "zh": "assets/papers/diffusion-distillation-survey-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/diffusion-distillation-survey-poster.png",
+      "zh": "assets/papers/diffusion-distillation-survey-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual method animation: diffusion distillation taxonomy.",
+      "zh": "扩散蒸馏方法分类的方法流程示意动图。"
+    },
+    "caption": {
+      "en": "Method illustration · diffusion distillation taxonomy",
+      "zh": "方法示意 · 扩散蒸馏方法分类"
+    }
+  }
+}

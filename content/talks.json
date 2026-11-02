@@ -1,0 +1,50 @@
+[
+  {
+    "id": "talk-01",
+    "html": {
+      "en": "<strong>Google Deepmind Research</strong> invited me to deliver a talk in 12th Nov, 2024 on one-step cross-modality generative models. Please check out the slides through <a href=\"https://drive.google.com/file/d/1NrhHBKtVcZ8Jf2-I8v_QKz-Xsdvfqof0/view?usp=sharing\">A Path to Human-preferred One-step Text-to-image Generative Models</a> .",
+      "zh": "受 <strong>Google DeepMind Research</strong> 邀请，于 2024 年 11 月 12 日作一步跨模态生成模型报告。幻灯片：<a href=\"https://drive.google.com/file/d/1NrhHBKtVcZ8Jf2-I8v_QKz-Xsdvfqof0/view?usp=sharing\">A Path to Human-preferred One-step Text-to-image Generative Models</a>。"
+    },
+    "visible": true
+  },
+  {
+    "id": "talk-02",
+    "html": {
+      "en": "The <a href=\"https://www.x-agi.cc/schedule.html\"><strong>18th X-AGI &amp;&amp; China-R Conference</strong></a> invited me to deliver a talk in the multimodal panel, 18th, October 2025. The title of the talk is <a href=\"https://drive.google.com/file/d/1cSDHniBoeanTP56PCodO_SZ1ozW8cMT9/view?usp=sharing\">Multimodal Generation and Understanding: the Evolution of Data and Models</a> .",
+      "zh": "受 <a href=\"https://www.x-agi.cc/schedule.html\"><strong>18th X-AGI &amp;&amp; China-R Conference</strong></a> 邀请，于 2025 年 10 月 18 日在多模态分论坛作报告。报告主题：<a href=\"https://drive.google.com/file/d/1cSDHniBoeanTP56PCodO_SZ1ozW8cMT9/view?usp=sharing\">Multimodal Generation and Understanding: the Evolution of Data and Models</a>。"
+    },
+    "visible": true
+  },
+  {
+    "id": "talk-03",
+    "html": {
+      "en": "Few-step Diffusion Models meetup, and the Diffusion Circle, at the International Conference of Machine Learning, 14th July 2025, Vancouver.",
+      "zh": "2025 年 7 月 14 日，于温哥华国际机器学习大会期间参加 Few-step Diffusion Models Meetup 与 Diffusion Circle。"
+    },
+    "visible": true
+  },
+  {
+    "id": "talk-04",
+    "html": {
+      "en": "Research Talk @ Genmo AI, Online, 3rd Jan, 2025: RLHF for Text-to-image Models and Beyond.",
+      "zh": "2025 年 1 月 3 日，Genmo AI 线上研究报告：文生图模型中的 RLHF 及进一步探索。"
+    },
+    "visible": true
+  },
+  {
+    "id": "talk-05",
+    "html": {
+      "en": "Invited Talk @ Biomedical Engineering lab, Peking University, 25th Oct, 2024: Recent Progress on Diffusion Distillations.",
+      "zh": "2024 年 10 月 25 日，北京大学生物医学工程实验室受邀报告：扩散蒸馏的近期进展。"
+    },
+    "visible": true
+  },
+  {
+    "id": "talk-06",
+    "html": {
+      "en": "Invited Talk @ MAPLE lab, Westlake University, 20th Oct, 2024: Efficient Generative Models.",
+      "zh": "2024 年 10 月 20 日，西湖大学 MAPLE 实验室受邀报告：高效生成式模型。"
+    },
+    "visible": true
+  }
+]

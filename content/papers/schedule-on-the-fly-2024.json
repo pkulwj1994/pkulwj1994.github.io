@@ -1,0 +1,32 @@
+{
+  "id": "schedule-on-the-fly-2024",
+  "published": true,
+  "year": 2024,
+  "title": {
+    "en": "Schedule On the Fly: Diffusion Time Prediction for Faster and Better Image Generation",
+    "zh": "动态调度：通过预测扩散时间实现更快、更好的图像生成"
+  },
+  "authors": [
+    "Zilyu Ye",
+    "Zhiyang Chen",
+    "Tiancheng Li",
+    "Zemin Huang",
+    "Weijian Luo ",
+    "Guo-Jun Qi"
+  ],
+  "status": {
+    "en": "CVPR , 2024",
+    "zh": "CVPR，2024"
+  },
+  "summary": "",
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2412.01243"
+    }
+  ],
+  "featured": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": "entropy-implicit-samplers-2023",
+  "published": true,
+  "year": 2023,
+  "title": {
+    "en": "Entropy-based Training Methods for Scalable Neural Implicit Samplers",
+    "zh": "可扩展神经隐式采样器的熵训练方法"
+  },
+  "authors": [
+    "Weijian Luo ",
+    "Boya Zhang",
+    "Zhihua Zhang"
+  ],
+  "status": {
+    "en": "NeurIPS , 2023",
+    "zh": "NeurIPS，2023"
+  },
+  "summary": "",
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1646e34971facbcda3727d1dc28ab635-Abstract-Conference.html"
+    }
+  ],
+  "featured": false
+}

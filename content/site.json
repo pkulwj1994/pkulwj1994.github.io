@@ -1,0 +1,53 @@
+{
+  "name": "Weijian Luo",
+  "displayName": "Weijian (William) Luo",
+  "degree": {
+    "en": "PhD",
+    "zh": "博士"
+  },
+  "baseUrl": "https://pkulwj1994.github.io/",
+  "title": {
+    "en": "Weijian (William) Luo, PhD | Generative Intelligence",
+    "zh": "Weijian Luo 博士｜生成式智能研究"
+  },
+  "description": {
+    "en": "Weijian Luo is a Senior Research Scientist at hi-lab, Xiaohongshu, researching efficient foundation models, one-step generation, and alignment through reinforcement learning.",
+    "zh": "Weijian Luo 现任小红书 hi-lab 高级研究科学家，研究方向包括生成式理解、一步生成与人类偏好对齐。"
+  },
+  "publicationTitle": {
+    "en": "Publications | Weijian Luo, PhD",
+    "zh": "学术论文｜Weijian Luo 博士"
+  },
+  "publicationDescription": {
+    "en": "Selected publications by Weijian Luo on diffusion models, generative understanding, efficient generation, and human preference alignment.",
+    "zh": "Weijian Luo 关于扩散模型、生成式理解、高效生成与人类偏好对齐的代表性论文。"
+  },
+  "email": "pkulwj1994@icloud.com",
+  "wechat": "luoxw1994",
+  "scholar": "https://scholar.google.com/citations?hl=zh-CN&user=kAYjIR4AAAAJ",
+  "github": "https://github.com/pkulwj1994",
+  "portrait": "assets/photos/head.jpg",
+  "favicon": "assets/photos/favicon.svg",
+  "navigation": {
+    "about": {
+      "en": "About",
+      "zh": "关于"
+    },
+    "research": {
+      "en": "Research",
+      "zh": "研究"
+    },
+    "publications": {
+      "en": "Publications",
+      "zh": "论文"
+    },
+    "contact": {
+      "en": "Get in touch",
+      "zh": "联系我"
+    }
+  },
+  "footerTagline": {
+    "en": "Curiosity is a good place to start.",
+    "zh": "探索，始于好奇。"
+  }
+}

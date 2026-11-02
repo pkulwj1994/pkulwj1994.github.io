@@ -1,0 +1,29 @@
+{
+  "id": "adversarial-robustness-2023",
+  "published": true,
+  "year": 2023,
+  "title": {
+    "en": "Enhancing Adversarial Robustness via Score-based Optimization",
+    "zh": "通过基于得分的优化提升对抗鲁棒性"
+  },
+  "authors": [
+    "Boya Zhang",
+    "Weijian Luo ",
+    "Zhihua Zhang"
+  ],
+  "status": {
+    "en": "NeurIPS , 2023",
+    "zh": "NeurIPS，2023"
+  },
+  "summary": "",
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/a2e707354da36956945dbb288efe82b3-Abstract-Conference.html"
+    }
+  ],
+  "featured": false
+}

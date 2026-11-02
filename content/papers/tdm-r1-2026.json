@@ -1,0 +1,51 @@
+{
+  "id": "tdm-r1-2026",
+  "published": true,
+  "year": 2026,
+  "date": "2026-04-30",
+  "title": {
+    "en": "TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward",
+    "zh": "TDM-R1：利用不可微奖励强化少步扩散模型"
+  },
+  "authors": [
+    "Luo et al."
+  ],
+  "status": {
+    "en": "ICML 2026",
+    "zh": "ICML 2026"
+  },
+  "summary": {
+    "en": "Reinforcement learning for few-step generative models.",
+    "zh": "面向少步生成模型的强化学习。"
+  },
+  "links": [
+    {
+      "label": {
+        "en": "Paper",
+        "zh": "论文"
+      },
+      "url": "https://arxiv.org/abs/2603.07700"
+    }
+  ],
+  "featured": true,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/tdm-r1-demo.gif",
+      "zh": "assets/papers/tdm-r1-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/tdm-r1-poster.png",
+      "zh": "assets/papers/tdm-r1-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual animation of a deterministic four-step trajectory, discrete reward feedback, surrogate reward learning, and generator updates.",
+      "zh": "展示确定性四步生成轨迹、离散奖励反馈、代理奖励学习与生成器更新的概念动图。"
+    },
+    "caption": {
+      "en": "Method illustration · reward feedback",
+      "zh": "方法示意 · 不可微奖励反馈"
+    }
+  },
+  "featuredOrder": 0
+}

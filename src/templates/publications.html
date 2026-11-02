@@ -1,0 +1,24 @@
+<!doctype html>
+<!-- Generated from content/ and src/. Run npm run build; edit source files. -->
+<html lang="{{language}}">
+{{head}}
+<body>
+  <a class="skip-link" href="#main">{{skip}}</a>
+  {{header}}
+  <main id="main">
+    {{intro}}
+    <section class="container" aria-label="{{bibliography}}">
+      {{tools}}
+      {{count}}
+      <ul class="publication-list" id="publication-list">
+        {{papers}}
+      </ul>
+      <div class="empty-results" id="empty-results" hidden>
+        {{empty}}
+      </div>
+      {{note}}
+    </section>
+  </main>
+  {{footer}}
+</body>
+</html>

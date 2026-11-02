@@ -1,0 +1,335 @@
+{
+  "announcement": {
+    "text": {
+      "en": "Exploring the next generation of generative intelligence.",
+      "zh": "探索下一代生成式智能。"
+    },
+    "linkLabel": {
+      "en": "Discover the research",
+      "zh": "了解研究方向"
+    }
+  },
+  "hero": {
+    "eyebrow": {
+      "en": "Weijian (William) Luo · PhD",
+      "zh": "Weijian (William) Luo · 博士"
+    },
+    "statementHtml": {
+      "en": "More efficient intelligence.<br><span class=\"gradient-text\">Broader real-world adoption.</span>",
+      "zh": "更高效的智能<br><span class=\"gradient-text\">才能推动更广泛的落地。</span>"
+    },
+    "descriptionHtml": {
+      "en": "<strong>Senior Research Scientist at hi-lab, Xiaohongshu.</strong> Exploring next-generation paradigms for efficient, intelligent foundation models.",
+      "zh": "<strong>小红书 hi-lab 高级研究科学家。</strong>探索下一代高效，智能的基础模型范式。"
+    },
+    "primaryLabel": {
+      "en": "Explore my research",
+      "zh": "探索我的研究"
+    },
+    "scholarLabel": {
+      "en": "Google Scholar",
+      "zh": "Google 学术"
+    },
+    "portraitAlt": {
+      "en": "Portrait of Weijian Luo outdoors by the San Francisco Bay",
+      "zh": "Weijian Luo 在旧金山湾畔的照片"
+    },
+    "role": {
+      "en": "Research Scientist",
+      "zh": "研究科学家"
+    },
+    "affiliation": {
+      "en": "hi-lab · Xiaohongshu",
+      "zh": "hi-lab · 小红书"
+    },
+    "location": {
+      "en": "Beijing, China",
+      "zh": "中国 · 北京"
+    },
+    "journeyLabel": {
+      "en": "Academic & industry background",
+      "zh": "学术&产业背景"
+    },
+    "affiliations": [
+      {
+        "label": "hi-lab && Dots",
+        "detail": {
+          "en": "Xiaohongshu",
+          "zh": "小红书"
+        },
+        "url": "https://job.xiaohongshu.com"
+      },
+      {
+        "label": {
+          "en": "Peking University · Department of Mathematics",
+          "zh": "北京大学数学系"
+        },
+        "url": "http://english.pku.edu.cn"
+      },
+      {
+        "label": {
+          "en": "USTC",
+          "zh": "中国科学技术大学"
+        },
+        "detail": {
+          "en": "Mathematics",
+          "zh": "数学"
+        },
+        "url": "http://en.ustc.edu.cn/"
+      }
+    ],
+    "heading": "Weijian (William) Luo - PhD"
+  },
+  "research": {
+    "eyebrow": {
+      "en": "Research",
+      "zh": "研究方向"
+    },
+    "titleHtml": {
+      "en": "One step closer<br>to superintelligence.",
+      "zh": "超级智能，向前一步。"
+    },
+    "intro": {
+      "en": "More capable intelligence with less compute, making superintelligence accessible to all.",
+      "zh": "以更少计算，释放更强智能，让超级智能触手可及。"
+    },
+    "topics": [
+      {
+        "id": "understanding",
+        "tone": "blue",
+        "eyebrow": {
+          "en": "01 / Superintelligence",
+          "zh": "01 / 超级智能"
+        },
+        "titleHtml": {
+          "en": "Toward<br>superintelligence.",
+          "zh": "迈向<br>超级智能。"
+        },
+        "description": {
+          "en": "Efficient foundation models that understand, reason, and create across modalities, exploring a path toward superintelligence.",
+          "zh": "研究具备跨模态理解、推理与创造能力的高效基础模型，探索通往超级智能的路径。"
+        }
+      },
+      {
+        "id": "generation",
+        "tone": "dark",
+        "eyebrow": {
+          "en": "02 / Generation",
+          "zh": "02 / 生成"
+        },
+        "titleHtml": {
+          "en": "From diffusion.<br>To one step.",
+          "zh": "从扩散模型，<br>到一步生成。"
+        },
+        "description": {
+          "en": "Efficient one-step text-to-image and video generation, making superintelligence widely accessible through a thousandfold gain in efficiency.",
+          "zh": "探索高效的一步文生图与视频生成，用千倍的效率普及超级智能。"
+        }
+      },
+      {
+        "id": "alignment",
+        "tone": "lilac",
+        "eyebrow": {
+          "en": "03 / Alignment",
+          "zh": "03 / 对齐"
+        },
+        "titleHtml": {
+          "en": "Starting from<br>human preferences.",
+          "zh": "以人类偏好<br>为出发点。"
+        },
+        "description": {
+          "en": "Aligning generative models with rewards from the environment through reinforcement learning and feedback.",
+          "zh": "通过强化学习与反馈，让生成式模型更好地对齐环境回报。"
+        }
+      }
+    ],
+    "detailLabel": {
+      "en": "More about my research",
+      "zh": "更多研究介绍"
+    },
+    "descriptionHtml": {
+      "en": "Weijian's early work laid the theoretical and practical foundations for modern one-step text-to-image models. He currently leads the research team on <strong>large-scale generative understanding models</strong> at <strong>hi-lab</strong>, developing efficient models that reason, understand human intent, and generate visual and audio responses in real time. He also leads research on next-generation generative models, including large-scale one-step text-to-image and video generation.",
+      "zh": "Weijian 的早期工作为现代一步文生图模型的理论与实践奠定了基础。目前，他在 <strong>hi-lab</strong> 带领<strong>大规模生成式理解模型</strong>研究团队，致力于开发高效的生成式理解模型，使其具备推理能力、理解人类意图，并实时生成视觉与音频响应。他也负责下一代生成式模型的研究方向，包括大规模一步文生图与视频生成模型。"
+    }
+  },
+  "selected": {
+    "eyebrow": {
+      "en": "Selected publications",
+      "zh": "代表性论文"
+    },
+    "title": {
+      "en": "From ideas to results.",
+      "zh": "让想法，成为成果。"
+    },
+    "linkLabel": {
+      "en": "All publications",
+      "zh": "全部论文"
+    },
+    "limit": null
+  },
+  "about": {
+    "eyebrow": {
+      "en": "About me",
+      "zh": "关于我"
+    },
+    "titleHtml": {
+      "en": "Math and physics.<br>Background",
+      "zh": "数学物理背景，<br>大模型研发。"
+    },
+    "biographyHtml": {
+      "en": "<strong>Weijian</strong> is a <strong><a href=\"https://job.xiaohongshu.com/campus/redstar\">RedStar</a></strong> Senior Research Scientist at the <strong>Humane Intelligence (hi) lab</strong> of <strong><a href=\"https://job.xiaohongshu.com\">Xiaohongshu (RedNote)</a></strong>. He currently leads the research team on <strong>large-scale generative understanding foundation models</strong> at <strong>hi-lab</strong>. He earned his PhD in Statistics and Generative Modeling from the School of Mathematical Sciences at <strong><a href=\"http://english.pku.edu.cn\">Peking University</a></strong>, where he previously received an MS in Applied Statistics. He holds a BS in Mathematics from the <strong><a href=\"http://en.ustc.edu.cn/\">University of Science and Technology of China (USTC)</a></strong>.",
+      "zh": "<strong>Weijian</strong> 现任<strong><a href=\"https://job.xiaohongshu.com\">小红书（RedNote）</a></strong> <strong>Humane Intelligence（hi）实验室</strong>的 <strong><a href=\"https://job.xiaohongshu.com/campus/redstar\">RedStar</a></strong> 高级研究科学家。目前，他在 <strong>hi-lab</strong> 带领<strong>大规模生成式理解基础模型</strong>研究团队。他于<strong><a href=\"http://english.pku.edu.cn\">北京大学</a></strong>数学科学学院获得统计学与生成建模方向博士学位，此前亦在<strong><a href=\"http://english.pku.edu.cn\">北京大学</a></strong>数学科学学院获得应用统计学硕士学位，并于<strong><a href=\"http://en.ustc.edu.cn/\">中国科学技术大学（USTC）</a></strong>获得数学学士学位。"
+    },
+    "education": [
+      {
+        "degree": {
+          "en": "Doctoral degree",
+          "zh": "博士"
+        },
+        "school": {
+          "en": "Peking University",
+          "zh": "北京大学"
+        },
+        "subject": {
+          "en": "Statistics & Generative Modeling",
+          "zh": "统计学与生成建模"
+        }
+      },
+      {
+        "degree": {
+          "en": "Master of Science",
+          "zh": "理学硕士"
+        },
+        "school": {
+          "en": "Peking University",
+          "zh": "北京大学"
+        },
+        "subject": {
+          "en": "Applied Statistics",
+          "zh": "应用统计学"
+        }
+      },
+      {
+        "degree": {
+          "en": "Bachelor of Science",
+          "zh": "理学学士"
+        },
+        "school": {
+          "en": "USTC",
+          "zh": "中国科学技术大学"
+        },
+        "subject": {
+          "en": "Mathematics",
+          "zh": "数学"
+        }
+      }
+    ]
+  },
+  "news": {
+    "eyebrow": {
+      "en": "Notes from the journey",
+      "zh": "探索中的记录"
+    },
+    "title": {
+      "en": "The latest.",
+      "zh": "最新动态。"
+    },
+    "label": {
+      "en": "Research & milestones",
+      "zh": "研究进展与里程碑"
+    },
+    "latestCount": 6,
+    "archiveLabel": {
+      "en": "Earlier updates",
+      "zh": "往期动态"
+    }
+  },
+  "talks": {
+    "eyebrow": {
+      "en": "Conversations & perspectives",
+      "zh": "交流与思考"
+    },
+    "title": {
+      "en": "Sharing ideas. Inspiring one another.",
+      "zh": "让想法，彼此启发。"
+    }
+  },
+  "community": {
+    "eyebrow": {
+      "en": "Academic community",
+      "zh": "学术共同体"
+    },
+    "title": {
+      "en": "Academic service",
+      "zh": "学术服务"
+    },
+    "serviceHtml": {
+      "en": "Weijian serves as a reviewer for academic journals including <strong>Nature Communications <a href=\"https://www.nature.com/ncomms/\">(NC)</a></strong>, <strong>Journal of Machine Learning Research <a href=\"https://www.jmlr.org/\">(JMLR)</a></strong>, IEEE Transactions on Pattern Analysis and Machine Intelligence <strong><a href=\"https://www.computer.org/csdl/journal/tp\">(TPAMI)</a></strong>, IEEE Transactions on Image Processing <strong><a href=\"https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing\">(TIP)</a></strong>, IEEE Transactions on Neural Networks and Learning Systems <strong><a href=\"https://cis.ieee.org/publications/t-neural-networks-and-learning-systems\">(TNNLS)</a></strong>, and Pattern Recognition <strong><a href=\"https://www.sciencedirect.com/journal/pattern-recognition\">(PR)</a></strong>. He also reviews for AI conferences including <strong>NeurIPS, ICML, ICLR, CVPR, ICCV, AISTATS, UAI, and ACM-MM</strong>.",
+      "zh": "Weijian 受邀担任多个学术期刊的审稿人，包括 <strong>Nature Communications <a href=\"https://www.nature.com/ncomms/\">（NC）</a></strong>、<strong>Journal of Machine Learning Research <a href=\"https://www.jmlr.org/\">（JMLR）</a></strong>、IEEE Transactions on Pattern Analysis and Machine Intelligence <strong><a href=\"https://www.computer.org/csdl/journal/tp\">（TPAMI）</a></strong>、IEEE Transactions on Image Processing <strong><a href=\"https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing\">（TIP）</a></strong>、IEEE Transactions on Neural Networks and Learning Systems <strong><a href=\"https://cis.ieee.org/publications/t-neural-networks-and-learning-systems\">（TNNLS）</a></strong>，以及 Pattern Recognition <strong><a href=\"https://www.sciencedirect.com/journal/pattern-recognition\">（PR）</a></strong>。他也为 <strong>NeurIPS、ICML、ICLR、CVPR、ICCV、AISTATS、UAI、ACM-MM</strong> 等人工智能领域会议审稿。"
+    },
+    "collaboratorLabel": {
+      "en": "Friends & collaborators",
+      "zh": "合作伙伴与朋友"
+    },
+    "studentLabel": {
+      "en": "Students & mentees",
+      "zh": "学生与指导经历"
+    },
+    "studentIntro": {
+      "en": "Previous students whom I have advised, hosted, or worked with.",
+      "zh": "曾经指导、接待或共同开展研究的学生。"
+    }
+  },
+  "contact": {
+    "eyebrow": {
+      "en": "Open minds. New possibilities.",
+      "zh": "开放思考，共创可能。"
+    },
+    "titleHtml": {
+      "en": "The next idea starts<br>with a conversation.",
+      "zh": "下一个想法，<br>从一次交流开始。"
+    },
+    "descriptionHtml": {
+      "en": "Weijian's team in Beijing is recruiting research scientists and engineers. Candidates with a strong research background and an interest in next-generation generative understanding models are welcome to apply to the <strong><a href=\"https://job.xiaohongshu.com/campus/redstar\">RedStar Research Scientist program</a></strong> or the <strong><a href=\"https://job.xiaohongshu.com/campus/landing/top_intern\">ACE internship program</a></strong>.",
+      "zh": "Weijian 在北京的团队正在招募有才华的研究科学家和工程师。欢迎拥有扎实研究积累、对下一代生成式理解模型充满好奇的候选人，申请 <strong><a href=\"https://job.xiaohongshu.com/campus/redstar\">RedStar 研究科学家计划</a></strong>或 <strong><a href=\"https://job.xiaohongshu.com/campus/landing/top_intern\">ACE 实习生计划</a></strong>。"
+    },
+    "buttonLabel": {
+      "en": "Let's talk",
+      "zh": "聊一聊"
+    },
+    "quote": {
+      "en": "What important truth do very few people agree with you on?",
+      "zh": "有什么重要的真相，是只有很少的人认同你的？"
+    },
+    "quoteAuthor": {
+      "en": "Peter Thiel",
+      "zh": "彼得·蒂尔"
+    }
+  },
+  "publications": {
+    "eyebrow": {
+      "en": "Research / Selected publications",
+      "zh": "学术研究 / 代表性论文"
+    },
+    "titleHtml": {
+      "en": "Exploration, <span class=\"gradient-text\">in print.</span>",
+      "zh": "以论文，<span class=\"gradient-text\">记录探索。</span>"
+    },
+    "introHtml": {
+      "en": "Exploring generative intelligence, one paper at a time.<br>A selection of work on diffusion, generation, and alignment.",
+      "zh": "以一篇篇论文，探索生成式智能。<br>这里汇集了关于扩散、生成与对齐的部分研究成果。"
+    },
+    "scholarLabel": {
+      "en": "View on Google Scholar",
+      "zh": "在 Google 学术查看"
+    },
+    "searchPlaceholder": {
+      "en": "Search titles, authors, or venues",
+      "zh": "搜索中英文标题、作者或会议"
+    },
+    "footnote": {
+      "en": "* indicates equal contribution or corresponding author.",
+      "zh": "* 表示共同贡献或通讯作者。"
+    }
+  }
+}
