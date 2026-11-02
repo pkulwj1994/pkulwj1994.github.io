@@ -3,3 +3,12 @@ node_modules/
 dist/
 .site-build-*/
 *.tmp
+
+# Legacy website files; current media belongs in assets/.
+/files/
+/photos/
+/_index.html
+/jemdoc.css
+/main.css
+/js/common.js
+/js/mansory.js

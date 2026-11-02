@@ -208,8 +208,8 @@ PR 只运行检查和构建，不发布。无需上传手工修改的 HTML，也
 - `src/client.js`：移动导航、论文搜索和筛选。
 - `src/art/`：研究卡片的 SVG 图示。
 
-历史 `_index.html`、`main.css`、`jemdoc.css` 和 `photos/` 保留供查阅；新页面使用
-`assets/photos/` 中的头像和图标。它们不参与新站点构建。
+新站的图片、方法动图与附件统一维护在 `assets/`，头像和图标位于 `assets/photos/`。
+旧版 `files/`、`photos/`、`_index.html` 及旧样式、脚本已移除；构建仅发布 `dist/`。
 
 目录划分与维护方式参考
 [Polyadic Research](https://github.com/pkulwj1994/polyadic-research/tree/main)，
