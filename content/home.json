@@ -102,7 +102,7 @@
           "zh": "01 / 超级智能"
         },
         "titleHtml": {
-          "en": "Toward<br>superintelligence.",
+          "en": "Toward Next-Gen<br>Superintelligence.",
           "zh": "迈向<br>超级智能。"
         },
         "description": {
@@ -118,7 +118,7 @@
           "zh": "02 / 生成"
         },
         "titleHtml": {
-          "en": "From diffusion.<br>To one step.",
+          "en": "Ultra-fast<br>Diffusion",
           "zh": "从扩散模型，<br>到一步生成。"
         },
         "description": {
@@ -134,7 +134,7 @@
           "zh": "03 / 对齐"
         },
         "titleHtml": {
-          "en": "Starting from<br>human preferences.",
+          "en": "Reinforcement<br>Post Alignment",
           "zh": "以人类偏好<br>为出发点。"
         },
         "description": {
