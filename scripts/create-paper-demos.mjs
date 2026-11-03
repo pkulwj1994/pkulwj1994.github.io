@@ -11,6 +11,8 @@
  * https://proceedings.iclr.cc/paper_files/paper/2025/hash/bb166dd4de5dba363bf1023eb956a826-Abstract-Conference.html
  * https://proceedings.mlr.press/v235/deng24c.html
  * https://arxiv.org/abs/2304.04262
+ * https://arxiv.org/html/2610.22330v1
+ * https://arxiv.org/html/2610.40847v1
  */
 import { mkdirSync, writeFileSync, statSync } from 'node:fs';
 import path from 'node:path';
@@ -72,7 +74,23 @@ const chinese = {
   'distill the dynamics': '蒸馏动态过程', 'Implicit generators': '隐式生成器',
   'stochastic / deterministic': '随机或确定性生成', 'Fast samplers': '快速采样器',
   'training-free acceleration': '无需训练的加速',
-  'A conceptual taxonomy, rather than an experimental result.': '方法分类示意。'
+  'A conceptual taxonomy, rather than an experimental result.': '方法分类示意。',
+  'Transformer design for continuous diffusion language models.': '面向连续扩散语言模型的 Transformer 设计。',
+  'NOISY EMBEDDINGS': '带噪嵌入', 'TOKEN ESTIMATES': '词元预测',
+  'continuous denoising': '连续去噪', 'Normalization': '归一化',
+  'features + queries / keys': '特征与查询 / 键', 'Noise conditioning': '噪声条件',
+  'wider conditioning': '更宽的条件表示', 'Likelihood shortcut': '似然捷径',
+  'gradient + calibration': '梯度路径与校准', 'Self-conditioning': '自条件机制',
+  'confidence-gated': '置信度门控',
+  'Normalization, conditioning, shortcut, and gated feedback.': '归一化、噪声条件、似然捷径与门控反馈。',
+  'The Generative Gap': '生成能力差距',
+  'Standalone drafting and diffusion under a common evaluation.': '在共同评测设置下，对比独立草稿模型与扩散模型。',
+  'MATCHED TRAINING · NO VERIFICATION': '匹配训练预算 · 无需目标模型验证',
+  'EVALUATION': '评测', 'Markov drafter': 'Markov 模型',
+  'previous-token context': '前一词元上下文', 'Recurrent drafter': '循环草稿模型',
+  'memory across tokens': '跨词元循环记忆', 'full-sequence refinement': '全序列迭代细化',
+  'shared metrics': '共同评测指标',
+  'Matched budgets, shared metrics, no target-model verification.': '匹配预算与共同指标，无需目标模型验证。'
 };
 const translate = value => language === 'zh' ? (chinese[value] ?? value) : value;
 const ink = '#253247', muted = '#748296', line = '#cbd6e4';
@@ -326,6 +344,77 @@ function survey(t) {
   return base('Diffusion Distillation Survey', 'A map of methods for transferring diffusion knowledge.', '#f1f3f7', color, body, 'A conceptual taxonomy, rather than an experimental result.', t);
 }
 
+function languageTransformer(t) {
+  const color = '#6a68bd';
+  let body = text(36, 156, 'NOISY EMBEDDINGS', { size: 11, color: muted, spacing: .7 });
+  body += text(622, 156, 'TOKEN ESTIMATES', { size: 11, color: muted, spacing: .7 });
+  body += rect(36, 177, 146, 112) + noise(49, 190, 120, 86, color, t);
+  body += labelBox(275, 192, 250, 'LangDiT', 'continuous denoising', color, wave(t));
+  body += rect(622, 177, 144, 112);
+  for (const [i, token] of ['the', 'model', 'can', 'refine', 'all', 'tokens'].entries()) {
+    const x = 638 + i % 2 * 58, y = 191 + Math.floor(i / 2) * 28;
+    body += rect(x, y, 46, 21, wave(t, i * .04) > .5 ? '#e5e0f7' : '#ffffff', color, 5);
+    body += text(x + 23, y + 15, token, { size: 11, anchor: 'middle', color });
+  }
+  body += arrow(192, 230, 265, 230) + signal(192, 230, 264, 230, t, color);
+  body += arrow(535, 230, 612, 230) + signal(535, 230, 611, 230, t, color, .25);
+  body += pathLine('M694 298V315H400V277', color, 1.5, 'stroke-dasharray="4 5"') + arrow(400, 277, 400, 270, color);
+  body += signal(682, 315, 412, 315, t, color, .5);
+  const choices = [
+    ['Normalization', 'features + queries / keys'],
+    ['Noise conditioning', 'wider conditioning'],
+    ['Likelihood shortcut', 'gradient + calibration'],
+    ['Self-conditioning', 'confidence-gated']
+  ];
+  for (let i = 0; i < choices.length; i++) {
+    const x = 36 + 187 * i;
+    body += rect(x, 338, 169, 76, '#ffffff', wave(t, i / 4) > .65 ? color : line);
+    body += text(x + 84.5, 367, choices[i][0], { size: 15, weight: 600, color, anchor: 'middle' });
+    body += text(x + 84.5, 391, choices[i][1], { size: 12, color: muted, anchor: 'middle' });
+  }
+  return base('LangDiT', 'Transformer design for continuous diffusion language models.', '#f3f1fb', color, body, 'Normalization, conditioning, shortcut, and gated feedback.', t);
+}
+
+function generativeGap(t) {
+  const color = '#4b7b9c';
+  let body = text(36, 154, 'MATCHED TRAINING · NO VERIFICATION', { size: 11, color: muted, spacing: .7 });
+  body += text(624, 164, 'EVALUATION', { size: 11, color: muted, spacing: .7 });
+  body += rect(624, 180, 142, 232);
+  body += text(695, 271, 'GenPPL', { size: 21, weight: 600, color, anchor: 'middle' });
+  body += text(695, 311, 'MAUVE', { size: 21, weight: 600, color, anchor: 'middle' });
+  body += text(695, 345, 'shared metrics', { size: 13, color: muted, anchor: 'middle' });
+  const rows = [
+    ['Markov drafter', 'previous-token context'],
+    ['Recurrent drafter', 'memory across tokens'],
+    ['LangFlow', 'full-sequence refinement']
+  ];
+  for (let row = 0; row < rows.length; row++) {
+    const y = 180 + row * 78, center = y + 38;
+    body += labelBox(36, y, 194, rows[row][0], rows[row][1], color, wave(t, row / 3));
+    body += arrow(240, center, 250, center);
+    if (row < 2) {
+      for (let i = 0; i < 5; i++) {
+        const x = 270 + i * 56;
+        body += circle(x, center, 11, color, .2 + .55 * wave(t, i * .1 + row / 3));
+        if (i < 4) body += arrow(x + 15, center, x + 41, center) + signal(x + 15, center, x + 40, center, t, color, i * .1);
+      }
+      if (row === 1) body += pathLine(`M270 ${center - 17}C326 ${center - 38} 438 ${center - 38} 494 ${center - 17}`, color, 1.5, 'stroke-dasharray="4 4"');
+      body += arrow(514, center, 614, center) + signal(514, center, 613, center, t, color, row / 3);
+    } else {
+      for (let pass = 0; pass < 3; pass++) {
+        const x = 254 + pass * 124;
+        body += rect(x, center - 19, 90, 38, '#ffffff', line, 9);
+        for (let i = 0; i < 5; i++) {
+          body += `<g opacity="${.2 + .65 * wave(t, pass * .18 + i * .025)}">${rect(x + 7 + i * 15, center - 8, 12, 16, color, 'none', 4)}</g>`;
+        }
+        if (pass < 2) body += arrow(x + 99, center, x + 115, center) + signal(x + 99, center, x + 114, center, t, color, pass * .2);
+      }
+      body += arrow(602, center, 614, center);
+    }
+  }
+  return base('The Generative Gap', 'Standalone drafting and diffusion under a common evaluation.', '#f0f4f8', color, body, 'Matched budgets, shared metrics, no target-model verification.', t);
+}
+
 const demos = [
   { id: 'tdm-r1', draw: tdm },
   { id: 'diff-instruct-plus-plus', draw: preference },
@@ -334,7 +423,9 @@ const demos = [
   { id: 'didi-instruct', draw: discreteLanguage },
   { id: 'consistency-models', draw: consistency },
   { id: 'variational-schrodinger', draw: schrodinger },
-  { id: 'diffusion-distillation-survey', draw: survey }
+  { id: 'diffusion-distillation-survey', draw: survey },
+  { id: 'langdit', draw: languageTransformer },
+  { id: 'generative-gap', draw: generativeGap }
 ];
 
 async function main() {

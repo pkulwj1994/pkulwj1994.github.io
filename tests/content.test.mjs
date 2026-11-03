@@ -88,14 +88,17 @@ test('paper announcements respect published state and join the dated news feed',
   assert.equal(records[0].url, 'https://example.org/new-paper');
 });
 
-test('featured order preserves curated work and includes new papers without a display cap', () => {
+test('featured work uses newest-first dates independently of bibliography priority', () => {
   const papers = [
-    newPaper({ id: 'recent-feature', year: 2028, date: '2028-01-01', featuredOrder: 2 }),
-    newPaper({ id: 'original-feature', year: 2020, date: undefined, featuredOrder: 0 }),
-    newPaper({ id: 'hidden-feature', published: false, featuredOrder: 1 }),
+    newPaper({ id: 'recent-feature', year: 2028, date: '2028-01-01' }),
+    newPaper({ id: 'original-feature', year: 2020, date: undefined, order: 0 }),
+    newPaper({ id: 'later-feature', year: 2028, date: '2028-11-01' }),
+    newPaper({ id: 'year-only-feature', year: 2028, date: undefined }),
+    newPaper({ id: 'hidden-feature', published: false }),
+    newPaper({ id: 'unfeatured-work', year: 2030, date: '2030-01-01', featured: false }),
     newPaper({ id: 'new-feature', year: 2029, date: '2029-01-01' })
   ];
-  assert.deepEqual(selectedPapers(papers, { limit: null }).map(paper => paper.id), ['original-feature', 'recent-feature', 'new-feature']);
-  assert.deepEqual(selectedPapers(papers, { limit: 2 }).map(paper => paper.id), ['original-feature', 'recent-feature']);
-  assert.deepEqual(visiblePapers(papers).map(paper => paper.id), ['new-feature', 'recent-feature', 'original-feature']);
+  assert.deepEqual(selectedPapers(papers, { limit: null }).map(paper => paper.id), ['new-feature', 'later-feature', 'recent-feature', 'year-only-feature', 'original-feature']);
+  assert.deepEqual(selectedPapers(papers, { limit: 2 }).map(paper => paper.id), ['new-feature', 'later-feature']);
+  assert.equal(visiblePapers(papers)[0].id, 'original-feature');
 });

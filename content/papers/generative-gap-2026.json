@@ -1,0 +1,43 @@
+{
+  "id": "generative-gap-2026",
+  "published": true,
+  "year": 2026,
+  "date": "2026-10-29",
+  "title": {
+    "en": "The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model",
+    "zh": "推测解码草稿模型与连续扩散语言模型的生成差距"
+  },
+  "authors": ["Yujian Chen", "Hao Jiang", "Guang Cheng", "Weijian Luo", "Tianyang Hu"],
+  "status": {
+    "en": "arXiv preprint, 2026",
+    "zh": "arXiv 预印本，2026"
+  },
+  "summary": {
+    "en": "A controlled comparison of standalone drafting and continuous diffusion under matched training budgets, examining recurrent memory and iterative full-sequence refinement without target-model verification.",
+    "zh": "在匹配训练预算、无需目标模型验证的设置下，对比独立草稿模型与连续扩散语言模型，研究循环记忆与全序列迭代细化的作用。"
+  },
+  "links": [
+    { "label": { "en": "Paper", "zh": "论文" }, "url": "https://arxiv.org/abs/2610.40847" },
+    { "label": "PDF", "url": "https://arxiv.org/pdf/2610.40847" }
+  ],
+  "featured": true,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/generative-gap-demo.gif",
+      "zh": "assets/papers/generative-gap-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/generative-gap-poster.png",
+      "zh": "assets/papers/generative-gap-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual comparison of a Markov drafting head, a recurrent drafting head, and LangFlow under shared evaluation without target-model verification.",
+      "zh": "在无需目标模型验证的共同评测设置下，对比 Markov 草稿头、循环草稿头与 LangFlow 的方法示意动图。"
+    },
+    "caption": {
+      "en": "Method illustration · standalone generation comparison",
+      "zh": "方法示意 · 独立生成能力对比"
+    }
+  }
+}

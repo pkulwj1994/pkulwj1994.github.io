@@ -33,6 +33,14 @@ correct artwork for each language without duplicating paper metadata.
 - `diffusion-distillation-survey-demo.gif`: a conceptual map of neural vector
   fields, implicit generators, and training-free accelerated samplers.
   [Paper](https://arxiv.org/abs/2304.04262).
+- `langdit-demo.gif`: continuous language denoising with normalization, noise
+  conditioning, a calibrated likelihood shortcut, and gated self-conditioning.
+  [Paper](https://arxiv.org/abs/2610.22330).
+- `generative-gap-demo.gif`: Markov and recurrent drafting heads compared with
+  LangFlow under matched training budgets and shared metrics, without target-model
+  verification. The diagram illustrates dependencies and refinement, without
+  plotting experimental scores.
+  [Paper](https://arxiv.org/abs/2610.40847).
 
 The editable drawing source is `scripts/create-paper-demos.mjs`. Corresponding
 `*-poster.svg` files retain vector versions of the poster frame.

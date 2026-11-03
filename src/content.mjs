@@ -147,7 +147,6 @@ export function validateContent(data, root) {
     id(paper.id, where + '.id'); bool(paper.published, where + '.published'); bool(paper.featured, where + '.featured');
     if (paper._file && path.basename(paper._file) !== `${paper.id}.json`) fail(where, 'filename must match id + .json');
     if (paper.order !== undefined && (!Number.isSafeInteger(paper.order) || paper.order < 0)) fail(where + '.order', 'must be a nonnegative integer');
-    if (paper.featuredOrder !== undefined && (!Number.isSafeInteger(paper.featuredOrder) || paper.featuredOrder < 0)) fail(where + '.featuredOrder', 'must be a nonnegative integer');
     if (paper.date !== undefined) date(paper.date, where + '.date');
     if (!Number.isSafeInteger(paper.year) || paper.year < 1000 || paper.year > 9999) fail(where + '.year', 'must be a four-digit integer');
     if (typeof paper.date === 'string' && String(paper.year) !== paper.date.slice(0, 4)) fail(where + '.date', 'date and year must agree');
@@ -208,15 +207,17 @@ export function validateContent(data, root) {
   return data;
 }
 
+function comparePaperDates(a, b) {
+  return b.year - a.year || (b.date || '').localeCompare(a.date || '') || a.id.localeCompare(b.id);
+}
+
 export function visiblePapers(papers) {
   return papers.filter(paper => paper.published !== false).sort((a, b) =>
-    (a.order ?? Infinity) - (b.order ?? Infinity) || b.year - a.year ||
-    (b.date || '').localeCompare(a.date || '') || a.id.localeCompare(b.id));
+    (a.order ?? Infinity) - (b.order ?? Infinity) || comparePaperDates(a, b));
 }
 
 export function selectedPapers(papers, { limit } = {}) {
-  const selected = visiblePapers(papers).filter(paper => paper.featured).sort((a, b) =>
-    (a.featuredOrder ?? Infinity) - (b.featuredOrder ?? Infinity));
+  const selected = papers.filter(paper => paper.published !== false && paper.featured).sort(comparePaperDates);
   return limit == null ? selected : selected.slice(0, limit);
 }
 

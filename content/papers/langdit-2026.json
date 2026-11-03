@@ -1,0 +1,43 @@
+{
+  "id": "langdit-2026",
+  "published": true,
+  "year": 2026,
+  "date": "2026-10-15",
+  "title": {
+    "en": "Designing Transformers for Continuous Diffusion Language Models",
+    "zh": "面向连续扩散语言模型的 Transformer 设计"
+  },
+  "authors": ["Weijian Luo", "Yujian Chen", "Hao Jiang", "Guang Cheng", "Tianyang Hu"],
+  "status": {
+    "en": "arXiv preprint, 2026",
+    "zh": "arXiv 预印本，2026"
+  },
+  "summary": {
+    "en": "LangDiT improves continuous diffusion language generation through normalization, noise conditioning, a calibrated likelihood shortcut, and confidence-gated self-conditioning.",
+    "zh": "面向连续扩散语言模型设计 LangDiT，结合归一化、噪声条件、经校准的似然捷径与置信度门控自条件机制，提升语言生成能力。"
+  },
+  "links": [
+    { "label": { "en": "Paper", "zh": "论文" }, "url": "https://arxiv.org/abs/2610.22330" },
+    { "label": "PDF", "url": "https://arxiv.org/pdf/2610.22330" }
+  ],
+  "featured": true,
+  "cover": {
+    "kind": "image",
+    "image": {
+      "en": "assets/papers/langdit-demo.gif",
+      "zh": "assets/papers/langdit-demo-zh.gif"
+    },
+    "poster": {
+      "en": "assets/papers/langdit-poster.png",
+      "zh": "assets/papers/langdit-poster-zh.png"
+    },
+    "alt": {
+      "en": "Conceptual animation of LangDiT's continuous denoising pipeline and four architecture choices.",
+      "zh": "LangDiT 连续去噪流程与四项架构设计的方法示意动图。"
+    },
+    "caption": {
+      "en": "Method illustration · LangDiT architecture",
+      "zh": "方法示意 · LangDiT 架构设计"
+    }
+  }
+}

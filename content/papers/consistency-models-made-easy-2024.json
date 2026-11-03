@@ -35,7 +35,6 @@
     }
   ],
   "featured": true,
-  "featuredOrder": 5,
   "cover": {
     "kind": "image",
     "image": {
